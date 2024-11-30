@@ -1,0 +1,220 @@
+{
+    "proplibs_old": [
+        {
+            "library": "Billboard.tara",
+            "version": 1
+        },
+        {
+            "library": "BillboardWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "Buildingsv1.tara",
+            "version": 1
+        },
+        {
+            "library": "Buildingsv1Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "Castle.tara",
+            "version": 1
+        },
+        {
+            "library": "CastleWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "CityTowers.tara",
+            "version": 1
+        },
+        {
+            "library": "CityTowersWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "CityWalls.tara",
+            "version": 1
+        },
+        {
+            "library": "CityWallsWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "ComBuild.tara",
+            "version": 1
+        },
+        {
+            "library": "ComplexBuildv1.tara",
+            "version": 1
+        },
+        {
+            "library": "ComplexBuildv1Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "Defense.tara",
+            "version": 1
+        },
+        {
+            "library": "Elementsv1.tara",
+            "version": 1
+        },
+        {
+            "library": "Elementsv1Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "Exterior.tara",
+            "version": 1
+        },
+        {
+            "library": "Halloween.tara",
+            "version": 1
+        },
+        {
+            "library": "Kahgel.tara",
+            "version": 1
+        },
+        {
+            "library": "Kariz.tara",
+            "version": 1
+        },
+        {
+            "library": "Landscape.tara",
+            "version": 1
+        },
+        {
+            "library": "LandscapeWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "Landv1.tara",
+            "version": 1
+        },
+        {
+            "library": "Landv1Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu1.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu10.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu10Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu12.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu12Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu14.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu14Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu1Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu2.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu2Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu3.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu3Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu4.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu4Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu5.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu5Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu6.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu6Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu8.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu8Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu9.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu9Winter.tara",
+            "version": 1
+        },
+        {
+            "library": "NY.tara",
+            "version": 1
+        },
+        {
+            "library": "Passage.tara",
+            "version": 1
+        },
+        {
+            "library": "Sprites.tara",
+            "version": 1
+        },
+        {
+            "library": "SpritesWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "VillageHouses.tara",
+            "version": 1
+        },
+        {
+            "library": "VillageHousesWinter.tara",
+            "version": 1
+        },
+        {
+            "library": "Yonje.tara",
+            "version": 1
+        },
+        {
+            "library": "Zamin.tara",
+            "version": 1
+        }
+    ]
+}

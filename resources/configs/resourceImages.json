@@ -1,0 +1,3829 @@
+{
+	"id":"IMAGES",
+	"items":[
+	 {
+		"name": "skybox_default",
+		"src": "skyboxes/skybox_default.jpg?7"
+	 },
+	 {
+		"name": "skybox_lun",
+		"src": "skyboxes/skybox_lun.jpg?7"
+	 },
+	 {
+		"name": "skybox_desert",
+		"src": "skyboxes/skybox_desert.jpg?7"
+	 },
+	 {
+		"name": "skybox_iran",
+		"src": "skyboxes/skybox_iran.jpg?7"
+	 },
+	 {
+		"name": "skybox_halloween",
+		"src": "skyboxes/skybox_halloween.jpg?7"
+	 },
+	 {
+		"name": "skybox_winter",
+		"src": "skyboxes/skybox_winter.jpg?7"
+	 },
+	 {
+		"name": "skybox_plato",
+		"src": "skyboxes/skybox_plato.jpg?7"
+	 },
+	 {
+		"name": "skybox_new_year",
+		"src": "skyboxes/skybox_new_year.jpg?7"
+	 },
+	 {
+		"name": "skybox_winter_evening",
+		"src": "skyboxes/skybox_winter_evening.jpg?7"
+	 },
+	 {
+		"name": "skybox_evening",
+		"src": "skyboxes/skybox_evening.jpg?7"
+	 },
+	 {
+		"name": "flagBlueModel_img",
+		"src": "ctf/pedestal/blue_pedestal/fs_blue.jpg?7"
+	 },
+	 {
+        "name": "pedestalBC",
+        "src": "dom/pedestalBC.jpg?7"
+     },
+	 {
+        "name": "pedestalRC",
+        "src": "dom/pedestalRC.jpg?7"
+     },
+	 {
+        "name": "pedestalNC",
+            "src": "dom/pedestalNC.jpg?7"
+     },
+	 {
+		"name": "flagRedModel_img",
+		"src": "ctf/pedestal/red_pedestal/fs_red.jpg?7"
+	 },
+	 {
+		"name": "railgunxt_m0_preview",
+		"src": "turret/railgun/xt/preview.png?7"
+	 },
+	 {
+		"name": "railgunxt_m0_lightmap",
+		"src": "turret/railgun/xt/lightmap.jpg?7"
+	 },
+	 {
+            "name": "criticalHitTexture",
+            "src": "turret/smoky/critical_hit.png?7"
+        },
+	 {
+		"name": "railgunxt_m0_details",
+		"src": "turret/railgun/xt/details.png?7"
+	 },
+	{
+	"name": "railgunxt_m0_shot",
+	"src": "turret/railgun/xt/railgun.png?7"
+	},
+	{
+	"name": "railgunxt_m0_spiral",
+	"src": "turret/railgun/xt/spiral.png?7"
+	},
+	{
+	"name": "railgunxt_m0_chargingPart1",
+	"src": "turret/railgun/xt/charge_part1.png?7"
+	},
+	{
+	"name": "railgunxt_m0_chargingPart2",
+	"src": "turret/railgun/xt/charge_part2.png?7"
+	},
+	{
+	"name": "railgunxt_m0_chargingPart3",
+	"src": "turret/railgun/xt/charge_part3.png?7"
+	},
+	 {
+		"name": "flagBlue",
+		"src": "ctf/flag_blue.png?7"
+	 },
+	 {
+		"name": "flagRed",
+		"src": "ctf/flag_red.png?7"
+	 },
+	 {
+		"name": "explosionTexture",
+		"src": "tank_explosion/explosion.png?7"
+	 },
+	 {
+		"name": "shockWaveTexture",
+		"src": "tank_explosion/shock_wave.png?7"
+	 },
+	 {
+		"name": "smokeTexture",
+		"src": "tank_explosion/smoke.png?7"
+	 },
+	 {
+		"name": "deadTank",
+		"src": "dead.jpg?7"
+	 },
+	 {
+		"name": "garage_box_img",
+		"src": "garage/garage.jpg?7"
+	 },
+	 {
+		"name": "viking_m0_details",
+		"src": "hull/viking/m0/details.png?7"
+	 },
+	 {
+		"name": "viking_m0_lightmap",
+		"src": "hull/viking/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "viking_m1_details",
+		"src": "hull/viking/m1/details.png?7"
+	 },
+	 {
+		"name": "viking_m1_lightmap",
+		"src": "hull/viking/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "viking_m2_details",
+		"src": "hull/viking/m2/details.png?7"
+	 },
+	 {
+		"name": "viking_m2_lightmap",
+		"src": "hull/viking/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "viking_m3_details",
+		"src": "hull/viking/m3/details.png?7"
+	 },
+	 {
+		"name": "viking_m3_lightmap",
+		"src": "hull/viking/m3/lightmap.jpg?7"
+	 },
+{
+		"name": "vikingxt_m0_details",
+		"src": "hull/viking/xt/details.png?7"
+	 },
+	 {
+		"name": "vikingxt_m0_lightmap",
+		"src": "hull/viking/xt/lightmap.jpg?7"
+	 },
+	 {
+		"name": "thunder_m0_lightmap",
+		"src": "turret/thunder/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "thunder_m0_details",
+		"src": "turret/thunder/m0/details.png?7"
+	 }
+	 ,
+	 {
+		"name": "thunder_m0_preview",
+		"src": "turret/thunder/m0/preview.png?7"
+	 },
+	 {
+		"name": "thunder_m1_lightmap",
+		"src": "turret/thunder/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "thunder_m1_details",
+		"src": "turret/thunder/m1/details.png?7"
+	 }
+	 ,
+	 {
+		"name": "thunder_m1_preview",
+		"src": "turret/thunder/m1/preview.png?7"
+	 },
+	 {
+		"name": "thunder_m2_lightmap",
+		"src": "turret/thunder/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "thunder_m2_details",
+		"src": "turret/thunder/m2/details.png?7"
+	 }
+	 ,
+	 {
+		"name": "thunder_m2_preview",
+		"src": "turret/thunder/m2/preview.png?7"
+	 },
+	 {
+		"name": "thunder_m3_lightmap",
+		"src": "turret/thunder/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "thunder_m3_details",
+		"src": "turret/thunder/m3/details.png?7"
+	 }
+	 ,
+	 {
+		"name": "thunder_m3_preview",
+		"src": "turret/thunder/m3/preview.png?7"
+	 },
+	 {
+		"name": "viking_m0_preview",
+		"src": "hull/viking/m0/preview.png?7"
+	 },
+	 {
+		"name": "viking_m1_preview",
+		"src": "hull/viking/m1/preview.png?7"
+	 },
+	 {
+		"name": "viking_m2_preview",
+		"src": "hull/viking/m2/preview.png?7"
+	 },
+	 {
+		"name": "viking_m3_preview",
+		"src": "hull/viking/m3/preview.png?7"
+	 },
+{
+		"name": "vikingxt_m0_preview",
+		"src": "hull/viking/xt/preview.png?7"
+	 },
+	 {
+		"name": "frezee_m0_lightmap",
+		"src": "turret/frezee/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "frezee_m0_details",
+		"src": "turret/frezee/m0/details.png?7"
+	 },
+	 {
+		"name": "frezee_m0_preview",
+		"src": "turret/frezee/m0/preview.png?7"
+	 },
+	 {
+		"name": "frezee_m1_lightmap",
+		"src": "turret/frezee/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "frezee_m1_details",
+		"src": "turret/frezee/m1/details.png?7"
+	 },
+	 {
+		"name": "frezee_m1_preview",
+		"src": "turret/frezee/m1/preview.png?7"
+	 },
+	 {
+		"name": "frezee_m2_lightmap",
+		"src": "turret/frezee/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "frezee_m2_details",
+		"src": "turret/frezee/m2/details.png?7"
+	 },
+	 {
+		"name": "frezee_m2_preview",
+		"src": "turret/frezee/m2/preview.png?7"
+	 },
+	 {
+		"name": "frezee_m3_lightmap",
+		"src": "turret/frezee/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "frezee_m3_details",
+		"src": "turret/frezee/m3/details.png?7"
+	 },
+	 {
+		"name": "frezee_m3_preview",
+		"src": "turret/frezee/m3/preview.png?7"
+	 },
+	 {
+		"name": "smoky_m0_lightmap",
+		"src": "turret/smoky/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "smoky_m0_details",
+		"src": "turret/smoky/m0/details.png?7"
+	 },
+	 {
+		"name": "smoky_m0_preview",
+		"src": "turret/smoky/m0/preview.png?7"
+	 },
+	 {
+		"name": "smoky_m1_lightmap",
+		"src": "turret/smoky/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "smoky_m1_details",
+		"src": "turret/smoky/m1/details.png?7"
+	 },
+	 {
+		"name": "smoky_m1_preview",
+		"src": "turret/smoky/m1/preview.png?7"
+	 },
+	 {
+		"name": "smoky_m2_lightmap",
+		"src": "turret/smoky/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "smoky_m2_details",
+		"src": "turret/smoky/m2/details.png?7"
+	 },
+	 {
+		"name": "smoky_m2_preview",
+		"src": "turret/smoky/m2/preview.png?7"
+	 },
+	 {
+		"name": "smoky_m3_lightmap",
+		"src": "turret/smoky/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "smoky_m3_details",
+		"src": "turret/smoky/m3/details.png?7"
+	 },
+	 {
+		"name": "smoky_m3_preview",
+		"src": "turret/smoky/m3/preview.png?7"
+	 },
+	 {
+		"name": "flamethrower_m0_lightmap",
+		"src": "turret/flamethrower/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "flamethrower_m0_details",
+		"src": "turret/flamethrower/m0/details.png?7"
+	 },
+	 {
+		"name": "flamethrower_m0_preview",
+		"src": "turret/flamethrower/m0/preview.png?7"
+	 },
+	 {
+		"name": "flamethrower_m1_lightmap",
+		"src": "turret/flamethrower/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "flamethrower_m1_details",
+		"src": "turret/flamethrower/m1/details.png?7"
+	 },
+	 {
+		"name": "flamethrower_m1_preview",
+		"src": "turret/flamethrower/m1/preview.png?7"
+	 },
+	 {
+		"name": "flamethrower_m2_lightmap",
+		"src": "turret/flamethrower/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "flamethrower_m2_details",
+		"src": "turret/flamethrower/m2/details.png?7"
+	 },
+	 {
+		"name": "flamethrower_m2_preview",
+		"src": "turret/flamethrower/m2/preview.png?7"
+	 },
+	 {
+		"name": "flamethrower_m3_lightmap",
+		"src": "turret/flamethrower/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "flamethrower_m3_details",
+		"src": "turret/flamethrower/m3/details.png?7"
+	 },
+	 {
+		"name": "flamethrower_m3_preview",
+		"src": "turret/flamethrower/m3/preview.png?7"
+	 },
+	 {
+		"name": "isida_m0_lightmap",
+		"src": "turret/isida/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "isida_m0_details",
+		"src": "turret/isida/m0/details.png?7"
+	 },
+	 {
+		"name": "isida_m0_preview",
+		"src": "turret/isida/m0/preview.png?7"
+	 },
+	 {
+		"name": "isida_m1_lightmap",
+		"src": "turret/isida/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "isida_m1_details",
+		"src": "turret/isida/m1/details.png?7"
+	 },
+	 {
+		"name": "isida_m1_preview",
+		"src": "turret/isida/m1/preview.png?7"
+	 },
+	 {
+		"name": "isida_m2_lightmap",
+		"src": "turret/isida/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "isida_m2_details",
+		"src": "turret/isida/m2/details.png?7"
+	 },
+	 {
+		"name": "isida_m2_preview",
+		"src": "turret/isida/m2/preview.png?7"
+	 },
+	 {
+		"name": "isida_m3_lightmap",
+		"src": "turret/isida/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "isida_m3_details",
+		"src": "turret/isida/m3/details.png?7"
+	 },
+	 {
+		"name": "isida_m3_preview",
+		"src": "turret/isida/m3/preview.png?7"
+	 },
+	 {
+		"name": "twins_m0_details",
+		"src": "turret/twins/m0/details.png?7"
+	 },
+	 {
+		"name": "twins_m0_preview",
+		"src": "turret/twins/m0/preview.png?7"
+	 },
+	 {
+		"name": "twins_m0_lightmap",
+		"src": "turret/twins/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "twins_m1_lightmap",
+		"src": "turret/twins/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "twins_m1_details",
+		"src": "turret/twins/m1/details.png?7"
+	 },
+	 {
+		"name": "twins_m1_preview",
+		"src": "turret/twins/m1/preview.png?7"
+	 },
+	 {
+		"name": "twins_m2_lightmap",
+		"src": "turret/twins/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "twins_m2_details",
+		"src": "turret/twins/m2/details.png?7"
+	 },
+	 {
+		"name": "twins_m2_preview",
+		"src": "turret/twins/m2/preview.png?7"
+	 },
+	 {
+		"name": "twins_m3_lightmap",
+		"src": "turret/twins/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "twins_m3_details",
+		"src": "turret/twins/m3/details.png?7"
+	 },
+	 {
+		"name": "twins_m3_preview",
+		"src": "turret/twins/m3/preview.png?7"
+	 },
+	 {
+		"name": "railgun_m0_details",
+		"src": "turret/railgun/m0/details.png?7"
+	 },
+	 {
+		"name": "railgun_m0_preview",
+		"src": "turret/railgun/m0/preview.png?7"
+	 },
+	 {
+		"name": "railgun_m0_lightmap",
+		"src": "turret/railgun/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "railgun_m1_lightmap",
+		"src": "turret/railgun/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "railgun_m1_details",
+		"src": "turret/railgun/m1/details.png?7"
+	 },
+	 {
+		"name": "railgun_m1_preview",
+		"src": "turret/railgun/m1/preview.png?7"
+	 },
+	 {
+		"name": "railgun_m2_lightmap",
+		"src": "turret/railgun/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "railgun_m2_details",
+		"src": "turret/railgun/m2/details.png?7"
+	 },
+	 {
+		"name": "railgun_m2_preview",
+		"src": "turret/railgun/m2/preview.png?7"
+	 },
+	 {
+		"name": "railgun_m3_lightmap",
+		"src": "turret/railgun/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "railgun_m3_details",
+		"src": "turret/railgun/m3/details.png?7"
+	 },
+	 {
+		"name": "railgun_m3_preview",
+		"src": "turret/railgun/m3/preview.png?7"
+	 },
+	 {
+		"name": "ricochet_m0_details",
+		"src": "turret/ricochet/m0/details.png?7"
+	 },
+	 {
+		"name": "ricochet_m0_lightmap",
+		"src": "turret/ricochet/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "ricochet_m0_preview",
+		"src": "turret/ricochet/m0/preview.png?7"
+	 },
+	 {
+		"name": "ricochet_m1_lightmap",
+		"src": "turret/ricochet/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "ricochet_m1_details",
+		"src": "turret/ricochet/m1/details.png?7"
+	 },
+	 {
+		"name": "ricochet_m1_preview",
+		"src": "turret/ricochet/m1/preview.png?7"
+	 },
+	 {
+		"name": "ricochet_m2_lightmap",
+		"src": "turret/ricochet/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "ricochet_m2_details",
+		"src": "turret/ricochet/m2/details.png?7"
+	 },
+	 {
+		"name": "ricochet_m2_preview",
+		"src": "turret/ricochet/m2/preview.png?7"
+	 },
+	 {
+		"name": "ricochet_m3_lightmap",
+		"src": "turret/ricochet/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "ricochet_m3_details",
+		"src": "turret/ricochet/m3/details.png?7"
+	 },
+	 {
+		"name": "ricochet_m3_preview",
+		"src": "turret/ricochet/m3/preview.png?7"
+	 },
+	 {
+		"name": "snowman_m0_details",
+		"src": "turret/snowman/m0/details.jpg?7"
+	 },
+	 {
+		"name": "snowman_m0_lightmap",
+		"src": "turret/snowman/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "snowman_m0_preview",
+		"src": "turret/snowman/m0/preview.png?7"
+	 },
+	 {
+		"name": "snowman_m0_fire",
+		"src": "turret/snowman/m0/fire.png?7"
+	 },
+	 {
+		"name": "snowman_m0_shot",
+		"src": "turret/snowman/m0/shot.png?7"
+	 },
+	 {
+		"name": "snowman_m1_details",
+		"src": "turret/snowman/m0/details.jpg?7"
+	 },
+	 {
+		"name": "snowman_m1_lightmap",
+		"src": "turret/snowman/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "snowman_m1_preview",
+		"src": "turret/snowman/m0/preview.png?7"
+	 },
+	 {
+		"name": "snowman_m1_fire",
+		"src": "turret/snowman/m0/fire.png?7"
+	 },
+	 {
+		"name": "snowman_m1_shot",
+		"src": "turret/snowman/m0/shot.png?7"
+	 },
+	 {
+		"name": "snowman_m2_details",
+		"src": "turret/snowman/m0/details.jpg?7"
+	 },
+	 {
+		"name": "snowman_m2_lightmap",
+		"src": "turret/snowman/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "snowman_m2_preview",
+		"src": "turret/snowman/m0/preview.png?7"
+	 },
+	 {
+		"name": "snowman_m2_fire",
+		"src": "turret/snowman/m0/fire.png?7"
+	 },
+	 {
+		"name": "snowman_m2_shot",
+		"src": "turret/snowman/m0/shot.png?7"
+	 },
+	 {
+		"name": "snowman_m3_details",
+		"src": "turret/snowman/m0/details.jpg?7"
+	 },
+	 {
+		"name": "snowman_m3_lightmap",
+		"src": "turret/snowman/m0/lighmap.jpg?7"
+	 },
+	 {
+		"name": "snowman_m3_preview",
+		"src": "turret/snowman/m0/preview.png?7"
+	 },
+	 {
+		"name": "snowman_m3_fire",
+		"src": "turret/snowman/m0/fire.png?7"
+	 },
+	 {
+		"name": "snowman_m3_shot",
+		"src": "turret/snowman/m0/shot.png?7"
+	 },
+	 {
+		"name": "snowman_m3_snow",
+		"src": "turret/snowman/m0/snow.png?7"
+	 },
+	 {
+		"name": "snowman_m2_snow",
+		"src": "turret/snowman/m0/snow.png?7"
+	 },
+	 {
+		"name": "snowman_m1_snow",
+		"src": "turret/snowman/m0/snow.png?7"
+	 },
+	 {
+		"name": "snowman_m0_snow",
+		"src": "turret/snowman/m0/snow.png?7"
+	 },
+	 {
+		"name": "wasp_m0_lightmap",
+		"src": "hull/wasp/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "wasp_m0_details",
+		"src": "hull/wasp/m0/details.png?7"
+	 },
+	 {
+		"name": "wasp_m0_preview",
+		"src": "hull/wasp/m0/preview.png?7"
+	 },
+	 {
+		"name": "waspxt_m0_lightmap",
+		"src": "hull/wasp/xt/lightmap.jpg?7"
+	 },
+	 {
+		"name": "waspxt_m0_details",
+		"src": "hull/wasp/xt/details.png?7"
+	 },
+	 {
+		"name": "waspxt_m0_preview",
+		"src": "hull/wasp/xt/preview.png?7"
+	 },
+	 {
+		"name": "wasp_m1_lightmap",
+		"src": "hull/wasp/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "wasp_m1_details",
+		"src": "hull/wasp/m1/details.png?7"
+	 },
+	 {
+		"name": "wasp_m1_preview",
+		"src": "hull/wasp/m1/preview.png?7"
+	 },
+	 {
+		"name": "wasp_m2_lightmap",
+		"src": "hull/wasp/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "wasp_m2_details",
+		"src": "hull/wasp/m2/details.png?7"
+	 },
+	 {
+		"name": "wasp_m2_preview",
+		"src": "hull/wasp/m2/preview.png?7"
+	 },
+	 {
+		"name": "wasp_m3_lightmap",
+		"src": "hull/wasp/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "wasp_m3_details",
+		"src": "hull/wasp/m3/details.png?7"
+	 },
+	 {
+		"name": "wasp_m3_preview",
+		"src": "hull/wasp/m3/preview.png?7"
+	 },
+	 {
+		"name": "hunterxt_m0_preview",
+		"src": "hull/hunter/xt/preview.png?7"
+	 },
+	 {
+		"name": "hunterxt_m0_lightmap",
+		"src": "hull/hunter/xt/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hunterxt_m0_details",
+		"src": "hull/hunter/xt/details.png?7"
+	 },
+	 {
+		"name": "hunterxt_m0_preview",
+		"src": "hull/hunter/xt/preview.png?7"
+	 },
+	 {
+		"name": "hunter_m0_lightmap",
+		"src": "hull/hunter/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hunter_m0_details",
+		"src": "hull/hunter/m0/details.png?7"
+	 },
+	 {
+		"name": "hunter_m0_preview",
+		"src": "hull/hunter/m0/preview.png?7"
+	 },
+	 {
+		"name": "hunter_m1_lightmap",
+		"src": "hull/hunter/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hunter_m1_details",
+		"src": "hull/hunter/m1/details.png?7"
+	 },
+	 {
+		"name": "hunter_m1_preview",
+		"src": "hull/hunter/m1/preview.png?7"
+	 },
+	 {
+		"name": "hunter_m2_lightmap",
+		"src": "hull/hunter/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hunter_m2_details",
+		"src": "hull/hunter/m2/details.png?7"
+	 },
+	 {
+		"name": "hunter_m2_preview",
+		"src": "hull/hunter/m2/preview.png?7"
+	 },
+	 {
+		"name": "hunter_m3_lightmap",
+		"src": "hull/hunter/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hunter_m3_details",
+		"src": "hull/hunter/m3/details.png?7"
+	 },
+	 {
+		"name": "hunter_m3_preview",
+		"src": "hull/hunter/m3/preview.png?7"
+	 },
+	 {
+		"name": "titan_m0_lightmap",
+		"src": "hull/titan/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "titan_m0_details",
+		"src": "hull/titan/m0/details.png?7"
+	 },
+	 {
+		"name": "titan_m0_preview",
+		"src": "hull/titan/m0/preview.png?7"
+	 },
+	 {
+		"name": "titan_m1_lightmap",
+		"src": "hull/titan/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "titan_m1_details",
+		"src": "hull/titan/m1/details.png?7"
+	 },
+	 {
+		"name": "titan_m1_preview",
+		"src": "hull/titan/m1/preview.png?7"
+	 },
+	 {
+		"name": "titan_m2_lightmap",
+		"src": "hull/titan/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "titan_m2_details",
+		"src": "hull/titan/m2/details.png?7"
+	 },
+	 {
+		"name": "titan_m2_preview",
+		"src": "hull/titan/m2/preview.png?7"
+	 },
+	 {
+		"name": "titan_m3_lightmap",
+		"src": "hull/titan/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "titan_m3_details",
+		"src": "hull/titan/m3/details.png?7"
+	 },
+	 {
+		"name": "titan_m3_preview",
+		"src": "hull/titan/m3/preview.png?7"
+	 },
+	 {
+		"name": "dictator_m0_lightmap",
+		"src": "hull/dictator/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "dictator_m0_details",
+		"src": "hull/dictator/m0/details.png?7"
+	 },
+	 {
+		"name": "dictator_m0_preview",
+		"src": "hull/dictator/m0/preview.png?7"
+	 },
+	 {
+		"name": "dictator_m1_lightmap",
+		"src": "hull/dictator/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "dictator_m1_details",
+		"src": "hull/dictator/m1/details.png?7"
+	 },
+	 {
+		"name": "dictator_m1_preview",
+		"src": "hull/dictator/m1/preview.png?7"
+	 },
+	 {
+		"name": "dictator_m2_lightmap",
+		"src": "hull/dictator/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "dictator_m2_details",
+		"src": "hull/dictator/m2/details.png?7"
+	 },
+	 {
+		"name": "dictator_m2_preview",
+		"src": "hull/dictator/m2/preview.png?7"
+	 },
+	 {
+		"name": "dictator_m3_lightmap",
+		"src": "hull/dictator/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "dictator_m3_details",
+		"src": "hull/dictator/m3/details.png?7"
+	 },
+	 {
+		"name": "dictator_m3_preview",
+		"src": "hull/dictator/m3/preview.png?7"
+	 },
+	 {
+		"name": "hornet_m0_lightmap",
+		"src": "hull/hornet/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hornet_m0_details",
+		"src": "hull/hornet/m0/details.png?7"
+	 },
+	 {
+		"name": "hornet_m0_preview",
+		"src": "hull/hornet/m0/preview.png?7"
+	 },
+	 {
+		"name": "hornet_m1_lightmap",
+		"src": "hull/hornet/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hornet_m1_details",
+		"src": "hull/hornet/m1/details.png?7"
+	 },
+	 {
+		"name": "hornet_m1_preview",
+		"src": "hull/hornet/m1/preview.png?7"
+	 },
+	 {
+		"name": "hornet_m2_lightmap",
+		"src": "hull/hornet/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hornet_m2_details",
+		"src": "hull/hornet/m2/details.png?7"
+	 },
+	 {
+		"name": "hornet_m2_preview",
+		"src": "hull/hornet/m2/preview.png?7"
+	 },
+	 {
+		"name": "hornet_m3_lightmap",
+		"src": "hull/hornet/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hornet_m3_details",
+		"src": "hull/hornet/m3/details.png?7"
+	 },
+	 {
+		"name": "hornet_m3_preview",
+		"src": "hull/hornet/m3/preview.png?7"
+	 },
+	 {
+		"name": "hornetxt_m0_lightmap",
+		"src": "hull/hornet/xt/lightmap.jpg?7"
+	 },
+	 {
+		"name": "hornetxt_m0_details",
+		"src": "hull/hornet/xt/details.png?7"
+	 },
+	 {
+		"name": "hornetxt_m0_preview",
+		"src": "hull/hornet/xt/preview.png?7"
+	 },
+	 {
+		"name": "mamont_m0_lightmap",
+		"src": "hull/mamont/m0/lightmap.jpg?7"
+	 },
+	 {
+		"name": "mamont_m0_details",
+		"src": "hull/mamont/m0/details.png?7"
+	 },
+	 {
+		"name": "mamont_m0_preview",
+		"src": "hull/mamont/m0/preview.png?7"
+	 },
+	 {
+		"name": "mamont_m1_lightmap",
+		"src": "hull/mamont/m1/lightmap.jpg?7"
+	 },
+	 {
+		"name": "mamont_m1_details",
+		"src": "hull/mamont/m1/details.png?7"
+	 },
+	 {
+		"name": "mamont_m1_preview",
+		"src": "hull/mamont/m1/preview.png?7"
+	 },
+	 {
+		"name": "mamont_m2_lightmap",
+		"src": "hull/mamont/m2/lightmap.jpg?7"
+	 },
+	 {
+		"name": "mamont_m2_details",
+		"src": "hull/mamont/m2/details.png?7"
+	 },
+	 {
+		"name": "mamont_m2_preview",
+		"src": "hull/mamont/m2/preview.png?7"
+	 },
+	 {
+		"name": "mamont_m3_lightmap",
+		"src": "hull/mamont/m3/lightmap.jpg?7"
+	 },
+	 {
+		"name": "mamont_m3_details",
+		"src": "hull/mamont/m3/details.png?7"
+	 },
+	 {
+		"name": "mamont_m3_preview",
+		"src": "hull/mamont/m3/preview.png?7"
+	 },
+	 {
+		"name": "anubis_m0",
+		"src": "colormaps/anubis/image.jpg?7"
+	 },
+	 {
+		"name": "anubis_m0_preview",
+		"src": "colormaps/anubis/preview.png?7"
+	 },	
+	 {
+		"name": "arab_m0",
+		"src": "colormaps/arab/image.jpg?7"
+	 },
+	 {
+		"name": "arab_m0_preview",
+		"src": "colormaps/arab/preview.png?7"
+	 },
+	 {
+		"name": "green_m0",
+		"src": "colormaps/green/image.jpg?7"
+	 },
+	 {
+		"name": "green_m0_preview",
+		"src": "colormaps/green/preview.png?7"
+	 },	
+	 {
+		"name": "holiday_m0",
+		"src": "colormaps/holiday/image.jpg?7"
+	 },
+	 {
+		"name": "holiday_m0_preview",
+		"src": "colormaps/holiday/preview.png?7"
+	 },
+	 {
+		"name": "red_m0",
+		"src": "colormaps/red/image.jpg?7"
+	 },	
+	 {
+		"name": "red_m0_preview",
+		"src": "colormaps/red/preview.png?7"
+	 },		
+	 {
+		"name": "blue_m0",
+		"src": "colormaps/blue/image.jpg?7"
+	 },	 
+	 {
+		"name": "blue_m0_preview",
+		"src": "colormaps/blue/preview.png?7"
+	 },	 	
+	 {
+		"name": "black_m0",
+		"src": "colormaps/black/image.jpg?7"
+	 },	 	
+	 {
+		"name": "black_m0_preview",
+		"src": "colormaps/black/preview.png?7"
+	 },	 	
+	 {
+		"name": "white_m0",
+		"src": "colormaps/white/image.jpg?7"
+	 },	 		
+	 {
+		"name": "white_m0_preview",
+		"src": "colormaps/white/preview.png?7"
+	 },	 		
+	 {
+		"name": "lava_m0",
+		"src": "colormaps/lava/image.jpg?7"
+	 },	
+	 {
+		"name": "lava_m0_preview",
+		"src": "colormaps/lava/preview.png?7"
+	 },	
+	 {
+		"name": "with_love_m0",
+		"src": "colormaps/with_love/image.jpg?7"
+	 },	 
+	 {
+		"name": "with_love_m0_preview",
+		"src": "colormaps/with_love/preview.png?7"
+	 },	 
+	 {
+		"name": "orange_m0",
+		"src": "colormaps/orange/image.jpg?7"
+	 },	 
+	 {
+		"name": "orange_m0_preview",
+		"src": "colormaps/orange/preview.png?7"
+	 },	 
+	 {
+		"name": "metallic_m0",
+		"src": "colormaps/metallic/image.jpg?7"
+	 },	
+	 {
+		"name": "metallic_m0_preview",
+		"src": "colormaps/metallic/preview.png?7"
+	 },		
+	 {
+		"name": "forester_m0",
+		"src": "colormaps/forester/image.jpg?7"
+	 },	 
+	 {
+		"name": "forester_m0_preview",
+		"src": "colormaps/forester/preview.png?7"
+	 },	 
+	 {
+		"name": "flora_m0",
+		"src": "colormaps/flora/image.jpg?7"
+	 },	
+	 {
+		"name": "flora_m0_preview",
+		"src": "colormaps/flora/preview.png?7"
+	 },	
+	 {
+		"name": "savanna_m0",
+		"src": "colormaps/savanna/image.jpg?7"
+	 },		
+	 {
+		"name": "savanna_m0_preview",
+		"src": "colormaps/savanna/preview.png?7"
+	 },		
+	 {
+		"name": "marine_m0",
+		"src": "colormaps/marine/image.jpg?7"
+	 },	
+	 {
+		"name": "marine_m0_preview",
+		"src": "colormaps/marine/preview.png?7"
+	 },	
+	 {
+		"name": "barkhan_m0",
+		"src": "colormaps/barkhan/image.jpg?7"
+	 },		
+	 {
+		"name": "barkhan_m0_preview",
+		"src": "colormaps/barkhan/preview.png?7"
+	 },		
+	 {
+		"name": "urban_m0",
+		"src": "colormaps/urban/image.jpg?7"
+	 },	
+	 {
+		"name": "urban_m0_preview",
+		"src": "colormaps/urban/preview.png?7"
+	 },	
+	 {
+		"name": "carbon_m0",
+		"src": "colormaps/carbon/image.jpg?7"
+	 },			
+	 {
+		"name": "carbon_m0_preview",
+		"src": "colormaps/carbon/preview.png?7"
+	 },			
+	 {
+		"name": "marsh_m0",
+		"src": "colormaps/marsh/image.jpg?7"
+	 },			 
+	 {
+		"name": "marsh_m0_preview",
+		"src": "colormaps/marsh/preview.png?7"
+	 },			 
+	 {
+		"name": "dirt_m0",
+		"src": "colormaps/dirt/image.jpg?7"
+	 },		
+	 {
+		"name": "dirt_m0_preview",
+		"src": "colormaps/dirt/preview.png?7"
+	 },		
+	 {
+		"name": "foreign_m0",
+		"src": "colormaps/foreign/image.jpg?7"
+	 },	
+	 {
+		"name": "foreign_m0_preview",
+		"src": "colormaps/foreign/preview.png?7"
+	 },	
+	 {
+		"name": "safari_m0",
+		"src": "colormaps/safari/image.jpg?7"
+	 },	
+	 {
+		"name": "safari_m0_preview",
+		"src": "colormaps/safari/preview.png?7"
+	 },	
+	 {
+		"name": "blizzard_m0",
+		"src": "colormaps/blizzard/image.jpg?7"
+	 },	
+	 {
+		"name": "blizzard_m0_preview",
+		"src": "colormaps/blizzard/preview.png?7"
+	 },	
+	 {
+		"name": "tundra_m0",
+		"src": "colormaps/tundra/image.jpg?7"
+	 },
+	 {
+		"name": "tundra_m0_preview",
+		"src": "colormaps/tundra/preview.png?7"
+	 },
+	 {
+		"name": "roger_m0",
+		"src": "colormaps/roger/image.jpg?7"
+	 },	
+	 {
+		"name": "roger_m0_preview",
+		"src": "colormaps/roger/preview.png?7"
+	 },	
+	 {
+		"name": "dragon_m0",
+		"src": "colormaps/dragon/image.jpg?7"
+	 },
+	 {
+		"name": "dragon_m0_preview",
+		"src": "colormaps/dragon/preview.png?7"
+	 },
+	 {
+		"name": "electra_m0",
+		"src": "colormaps/electra/image.jpg?7"
+	 },	
+	 {
+		"name": "electra_m0_preview",
+		"src": "colormaps/electra/preview.png?7"
+	 },	
+	 {
+		"name": "digital_m0",
+		"src": "colormaps/digital/image.jpg?7"
+	 },
+	 {
+		"name": "digital_m0_preview",
+		"src": "colormaps/digital/preview.png?7"
+	 },
+	 {
+		"name": "jaguar_m0",
+		"src": "colormaps/jaguar/image.jpg?7"
+	 },
+	 {
+		"name": "jaguar_m0_preview",
+		"src": "colormaps/jaguar/preview.png?7"
+	 },
+	 {
+		"name": "khokhloma_m0",
+		"src": "colormaps/khokhloma/image.jpg?7"
+	 },	
+	 {
+		"name": "khokhloma_m0_preview",
+		"src": "colormaps/khokhloma/preview.png?7"
+	 },	
+	 {
+		"name": "rustle_m0",
+		"src": "colormaps/rustle/image.jpg?7"
+	 },		
+	 {
+		"name": "rustle_m0_preview",
+		"src": "colormaps/rustle/preview.png?7"
+	 },		
+	 {
+		"name": "mary_m0",
+		"src": "colormaps/mary/image.jpg?7"
+	 },	
+	 {
+		"name": "mary_m0_preview",
+		"src": "colormaps/mary/preview.png?7"
+	 },	
+	 {
+		"name": "surf_m0",
+		"src": "colormaps/surf/image.jpg?7"
+	 },
+	 {
+		"name": "surf_m0_preview",
+		"src": "colormaps/surf/preview.png?7"
+	 },	
+	 {
+		"name": "storm_m0",
+		"src": "colormaps/storm/image.jpg?7"
+	 },
+	 {
+		"name": "storm_m0_preview",
+		"src": "colormaps/storm/preview.png?7"
+	 },
+	 {
+		"name": "rust_m0",
+		"src": "colormaps/rust/image.jpg?7"
+	 },	
+	 {
+		"name": "rust_m0_preview",
+		"src": "colormaps/rust/preview.png?7"
+	 },	
+	 {
+		"name": "clay_m0",
+		"src": "colormaps/clay/image.jpg?7"
+	 },
+	 {
+		"name": "clay_m0_preview",
+		"src": "colormaps/clay/preview.png?7"
+	 },
+	 {
+		"name": "python_m0",
+		"src": "colormaps/python/image.jpg?7"
+	 },
+	 {
+		"name": "python_m0_preview",
+		"src": "colormaps/python/preview.png?7"
+	 },
+	 {
+		"name": "python2_m0",
+		"src": "colormaps/python/image.jpg?7"
+	 },
+	 {
+		"name": "python2_m0_preview",
+		"src": "colormaps/python/preview.png?7"
+	 },
+	 {
+		"name": "spark_m0",
+		"src": "colormaps/spark/image.jpg?7"
+	 },	
+	 {
+		"name": "spark_m0_preview",
+		"src": "colormaps/spark/preview.png?7"
+	 },	
+	 {
+		"name": "taiga_m0",
+		"src": "colormaps/taiga/image.jpg?7"
+	 },		
+	 {
+		"name": "taiga_m0_preview",
+		"src": "colormaps/taiga/preview.png?7"
+	 },		
+	 {
+		"name": "kedr_m0",
+		"src": "colormaps/kedr/image.jpg?7"
+	 },	
+	 {
+		"name": "kedr_m0_preview",
+		"src": "colormaps/kedr/preview.png?7"
+	 },	
+	 {
+		"name": "standstone_m0",
+		"src": "colormaps/standstone/image.jpg?7"
+	 },	
+	 {
+		"name": "standstone_m0_preview",
+		"src": "colormaps/standstone/preview.png?7"
+	 },	
+	 {
+		"name": "lead_m0",
+		"src": "colormaps/lead/image.jpg?7"
+	 },		
+	 {
+		"name": "lead_m0_preview",
+		"src": "colormaps/lead/preview.png?7"
+	 },		
+	 {
+		"name": "prodigy_m0",
+		"src": "colormaps/prodigy/image.jpg?7"
+	 },	
+	 {
+		"name": "prodigy_m0_preview",
+		"src": "colormaps/prodigy/preview.png?7"
+	 },	
+	 {
+		"name": "tina_m0",
+		"src": "colormaps/tina/image.jpg?7"
+	 },	
+	 {
+		"name": "tina_m0_preview",
+		"src": "colormaps/tina/preview.png?7"
+	 },	
+	 {
+		"name": "rock_m0",
+		"src": "colormaps/rock/image.jpg?7"
+	 },
+	 {
+		"name": "rock_m0_preview",
+		"src": "colormaps/rock/preview.png?7"
+	 },
+	 {
+		"name": "needles_m0",
+		"src": "colormaps/needles/image.jpg?7"
+	 },	
+	 {
+		"name": "needles_m0_preview",
+		"src": "colormaps/needles/preview.png?7"
+	 },	
+	 {
+		"name": "irbis_m0",
+		"src": "colormaps/irbis/image.jpg?7"
+	 },	
+	 {
+		"name": "panin_m0",
+		"src": "colormaps/panin/image.jpg?7"
+	 },
+	 {
+		"name": "panin_m0_preview",
+		"src": "colormaps/panin/preview.png?7"
+	 },
+	 {
+        "name": "cryo_m0_preview",
+        "src": "colormaps/cryo/preview.png?7"
+     },
+     {
+        "name": "cryo_m0",
+        "src": "colormaps/cryo/image.jpg?7",
+        "multiframe": true,
+        "fps": 32, 
+        "frame_heigth": 64,
+        "frame_width": 64,
+        "num_frames": 256
+     },
+{
+        "name": "katakana_m0_preview",
+        "src": "colormaps/katakana/preview.png?7"
+     },
+     {
+        "name": "katakana_m0",
+        "src": "colormaps/katakana/image.jpg?7",
+        "multiframe": true,
+        "fps": 32,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 64
+     },
+	 {
+        "name": "holy_m0_preview",
+        "src": "colormaps/holy/preview.png?7"
+     },
+     {
+        "name": "holy_m0",
+        "src": "colormaps/holy/image.jpg?7",
+        "multiframe": true,
+        "fps": 32,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 64
+     },
+	 {
+        "name": "surfanim_m0_preview",
+        "src": "colormaps/surfanim/preview.png?7"
+     },
+     {
+        "name": "surfanim_m0",
+        "src": "colormaps/surfanim/image.jpg?7",
+        "multiframe": true,
+        "fps": 48,
+        "frame_heigth": 64,
+        "frame_width": 64,
+        "num_frames": 256
+     }, 
+	 {
+        "name": "regeneration_m0_preview",
+        "src": "colormaps/regeneration/preview.png?7"
+     },
+     {
+        "name": "regeneration_m0",
+        "src": "colormaps/regeneration/image.jpg?7",
+        "multiframe": true,
+        "fps": 24,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 64
+     },
+	 {
+        "name": "pumpkins_m0_preview",
+        "src": "colormaps/pumpkins/preview.png?7"
+     },
+     {
+        "name": "pumpkins_m0",
+        "src": "colormaps/pumpkins/image.jpg?7",
+        "multiframe": true,
+        "fps": 32,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 64
+     },
+	 {
+        "name": "city_m0_preview",
+        "src": "colormaps/city/preview.png?7"
+     },
+     {
+        "name": "city_m0",
+        "src": "colormaps/city/image.jpg?7",
+        "multiframe": true,
+        "fps": 24,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 64
+     },
+	 {
+        "name": "prodigy2_m0_preview",
+        "src": "colormaps/prodigy2/preview.png?7"
+     },
+     {
+        "name": "prodigy2_m0",
+        "src": "colormaps/prodigy2/image.jpg?7",
+        "multiframe": true,
+        "fps": 10,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 20
+     },
+	 {
+        "name": "ginga_m0_preview",
+        "src": "colormaps/ginga/preview.png?7"
+     },
+     {
+        "name": "ginga_m0",
+        "src": "colormaps/ginga/image.jpg?7",
+        "multiframe": true,
+        "fps": 15,
+        "frame_heigth": 32,
+        "frame_width": 32,
+        "num_frames": 30
+     },
+	 {
+        "name": "turbo_m0_preview",
+        "src": "colormaps/turbo/preview.png?7"
+     },
+	 {
+        "name": "turbo_m0",
+        "src": "colormaps/turbo/image.jpg?7",
+        "multiframe": true,
+        "fps": 32,
+        "frame_heigth": 128,
+        "frame_width": 128,
+        "num_frames": 128
+     },
+	 {
+        "name": "parkourmasters_m0_preview",
+        "src": "colormaps/parkourmasters/preview.png?7"
+     },
+	 {
+        "name": "parkourmasters_m0",
+        "src": "colormaps/parkourmasters/image.png?7"
+     },
+	 {
+        "name": "tankitty_m0",
+        "src": "colormaps/tankitty/image.png?7"
+     },
+	 {
+        "name": "tankitty_m0_preview",
+        "src": "colormaps/tankitty/preview.png?7"
+     },
+	 {
+		"name": "irbis_m0_preview",
+		"src": "colormaps/irbis/preview.png?7"
+	 },	
+	 {
+		"name": "irbis2_m0",
+		"src": "colormaps/irbis/image.jpg?7"
+	 },	
+	 {
+		"name": "irbis2_m0_preview",
+		"src": "colormaps/irbis/preview.png?7"
+	 },
+	 {
+		"name": "izumurud_m0",
+		"src": "colormaps/izumurud/image.jpg?7"
+	 },	
+	 {
+		"name": "izumurud_m0_preview",
+		"src": "colormaps/izumurud/preview.png?7"
+	 },	
+	 {
+		"name": "zeus_m0",
+		"src": "colormaps/zeus/image.jpg?7"
+	 },	
+	 {
+		"name": "zeus_m0_preview",
+		"src": "colormaps/zeus/preview.png?7"
+	 },	
+	 {
+		"name": "inferno_m0",
+		"src": "colormaps/inferno/image.jpg?7"
+	 },
+	 {
+		"name": "inferno_m0_preview",
+		"src": "colormaps/inferno/preview.png?7"
+	 },	
+	 {
+		"name": "vlastelin_m0",
+		"src": "colormaps/vlastelin/image.jpg?7"
+	 },
+	 {
+		"name": "vlastelin_m0_preview",
+		"src": "colormaps/vlastelin/preview.png?7"
+	 },	
+	  {
+		"name": "traceur_m0",
+		"src": "colormaps/traceur/image.jpg?7"
+	 },
+	 {
+		"name": "traceur_m0_preview",
+		"src": "colormaps/traceur/preview.png?7"
+	 },
+	 {
+		"name": "besthelper_m0",
+	    "src": "colormaps/besthelper/image.jpg?7"
+	 },
+	 {
+		"name": "besthelper_m0_preview",
+		"src": "colormaps/besthelper/preview.png?7"
+	 },
+     {
+		"name": "plexus_m0",
+	    "src": "colormaps/plexus/image.jpg?7",
+		"multiframe": true,
+		"fps": 12,
+		"frame_heigth": 200,
+		"frame_width": 200,
+		"num_frames": 48
+	 },
+	 {
+		"name": "plexus_m0_preview",
+		"src": "colormaps/plexus/preview.png?7"
+	 },	 
+	 {
+		"name": "champion_m0",
+		"src": "colormaps/champion/image.jpg?7"
+	 },
+	 {
+		"name": "champion_m0_preview",
+		"src": "colormaps/champion/preview.png?7"
+	 },	
+	 {
+		"name": "helios_m0",
+		"src": "colormaps/helios/image.jpg?7"
+	 },
+	 {
+		"name": "helios_m0_preview",
+		"src": "colormaps/helios/preview.png?7"
+	 },	
+	 {
+		"name": "acid_m0",
+		"src": "colormaps/acid/image.jpg?7"
+	 },
+	 {
+		"name": "acid_m0_preview",
+		"src": "colormaps/acid/preview.png?7"
+	 },	
+	 {
+		"name": "redsuit_m0",
+		"src": "colormaps/redsuit/image.jpg?7"
+	 },
+	 {
+		"name": "redsuit_m0_preview",
+		"src": "colormaps/redsuit/preview.png?7"
+	 },	
+	 {
+		"name": "tot_m0",
+		"src": "colormaps/tot/image.jpg?7"
+	 },
+	 {
+		"name": "tot_m0_preview",
+		"src": "colormaps/tot/preview.png?7"
+	 },	
+	 {
+		"name": "spectator_m0",
+		"src": "colormaps/spectator/image.jpg?7"
+	 },
+	 {
+		"name": "spectator_m0_preview",
+		"src": "colormaps/spectator/preview.png?7"
+	 },
+{
+		"name": "glad_m0",
+		"src": "colormaps/glad/image.jpg?7"
+	 },
+{
+		"name": "glad_m0_preview",
+		"src": "colormaps/glad/preview.png?7"
+	 },
+{
+		"name": "flame_m0",
+		"src": "colormaps/flame/image.jpg?7"
+	 },
+{
+		"name": "flame_m0_preview",
+		"src": "colormaps/flame/preview.png?7"
+	 },
+	 {
+		"name": "nefrit_m0",
+		"src": "colormaps/nefrit/image.jpg?7"
+	 },	
+	 {
+		"name": "nefrit_m0_preview",
+		"src": "colormaps/nefrit/preview.png?7"
+	 },	
+	 {
+		"name": "flow_m0_preview",
+		"src": "colormaps/flow/preview.png?7"
+	 },
+	 {
+		"name": "flow_m0",
+		"src": "colormaps/flow/image.jpg?r=1",
+		"multiframe": true,
+		"fps": 25,
+		"frame_heigth": 250,
+		"frame_width": 250,
+		"num_frames": 16
+	 },
+	 {
+            "name": "heartbeat_m0",
+            "src": "colormaps/heartbeat/image.jpg?7",
+            "multiframe": true,
+            "fps": 15,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 6
+     },
+     {
+            "name": "heartbeat_m0_preview",
+            "src": "colormaps/heartbeat/preview.png?7"
+     },
+	 {
+            "name": "newyear2020_m0",
+            "src": "colormaps/newyear2020/image.jpg?7",
+            "multiframe": true,
+            "fps": 30,
+            "frame_heigth": 64,
+            "frame_width": 64,
+            "num_frames": 256
+        },
+        {
+            "name": "newyear2020_m0_preview",
+            "src": "colormaps/newyear2020/preview.png?7"
+        },
+	 {
+		"name": "adam_m0_preview",
+		"src": "colormaps/adam/preview.png?7"
+	 },
+	 {
+		"name": "adam_m0",
+		"src": "colormaps/adam/image.jpg?r=1",
+		"multiframe": true,
+		"fps": 9,
+		"frame_heigth": 250,
+		"frame_width": 250,
+		"num_frames": 9
+	 },
+	 {
+		"name": "nightmare_m0",
+		"src": "colormaps/nightmare/image.jpg?7",
+		"multiframe": true,
+		"fps": 25,
+		"frame_heigth": 64,
+		"frame_width": 64,
+		"num_frames": 25
+	 },	
+	 {
+		"name": "nightmare_m0_preview",
+		"src": "colormaps/nightmare/preview.png?7"
+	 },
+	 {
+		"name": "spectr_m0",
+		"src": "colormaps/spectr/image.jpg?7",
+		"multiframe": true,
+		"fps": 25,
+		"frame_heigth": 1,
+		"frame_width": 2,
+		"num_frames": 500
+	 },	
+	 {
+		"name": "spectr_m0_preview",
+		"src": "colormaps/spectr/preview.png?7"
+	 },
+	 {
+		"name": "redl_m0",
+		"src": "colormaps/redl/image.jpg?7",
+		"multiframe": true, 
+		"fps": 25, 
+		"frame_heigth": 125, 
+		"frame_width": 125, 
+		"num_frames": 16
+	 },	
+	 {
+		"name": "uley_m0",
+		"src": "colormaps/uley/image.jpg?7",
+		"multiframe": true,
+		"fps": 60,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "uley_m0_preview",
+		"src": "colormaps/uley/preview.png?7"
+	 },
+	 {
+		"name": "groza_m0",
+		"src": "colormaps/groza/image.jpg?7",
+		"multiframe": true,
+		"fps": 25,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "groza_m0_preview",
+		"src": "colormaps/groza/preview.png?7"
+	 },
+	 {
+		"name": "adversity_m0",
+		"src": "colormaps/adversity/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "adversity_m0_preview",
+		"src": "colormaps/adversity/preview.png?7"
+	 },
+	 {
+		"name": "badger_m0",
+		"src": "colormaps/badger/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "badger_m0_preview",
+		"src": "colormaps/badger/preview.png?7"
+	 },
+	 {
+		"name": "bronzearm_m0",
+		"src": "colormaps/bronzearm/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "bronzearm_m0_preview",
+		"src": "colormaps/bronzearm/preview.png?7"
+	 },
+	 {
+		"name": "busted_m0",
+		"src": "colormaps/busted/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "busted_m0_preview",
+		"src": "colormaps/busted/preview.png?7"
+	 },
+	 {
+		"name": "disco2_m0",
+		"src": "colormaps/disco2/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "disco2_m0_preview",
+		"src": "colormaps/disco2/preview.png?7"
+	 },
+	 {
+		"name": "funky_medicine_m0",
+		"src": "colormaps/funky_medicine/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "funky_medicine_m0_preview",
+		"src": "colormaps/funky_medicine/preview.png?7"
+	 },
+	 {
+		"name": "glamcroc_m0",
+		"src": "colormaps/glamcroc/image.jpg?7",
+		"multiframe": true,
+		"fps": 24,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "glamcroc_m0_preview",
+		"src": "colormaps/glamcroc/preview.png?7"
+	 },
+	 {
+		"name": "green_quads_m0",
+		"src": "colormaps/green_quads/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "green_quads_m0_preview",
+		"src": "colormaps/green_quads/preview.png?7"
+	 },
+	 {
+		"name": "kiss_m0",
+		"src": "colormaps/kiss/image.jpg?7",
+		"multiframe": true,
+		"fps": 24,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "kiss_m0_preview",
+		"src": "colormaps/kiss/preview.png?7"
+	 },
+	 {
+		"name": "lavalamp_m0",
+		"src": "colormaps/lavalamp/image.jpg?7",
+		"multiframe": true,
+		"fps": 24,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "lavalamp_m0_preview",
+		"src": "colormaps/lavalamp/preview.png?7"
+	 },
+	 {
+		"name": "nebula_m0",
+		"src": "colormaps/nebula/image.jpg?7",
+		"multiframe": true,
+		"fps": 24,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "nebula_m0_preview",
+		"src": "colormaps/nebula/preview.png?7"
+	 },
+	 {
+		"name": "quantcamo_m0",
+		"src": "colormaps/quantcamo/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "quantcamo_m0_preview",
+		"src": "colormaps/quantcamo/preview.png?7"
+	 },
+	 {
+		"name": "tplates_m0",
+		"src": "colormaps/tplates/image.jpg?7",
+		"multiframe": true,
+		"fps": 32,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 64
+	 },	
+	 {
+		"name": "tplates_m0_preview",
+		"src": "colormaps/tplates/preview.png?7"
+	 },
+	 {
+		"name": "redl_m0_preview",
+		"src": "colormaps/redl/preview.png?7"
+	 },
+	  {
+		"name": "matrix_m0",
+		"src": "colormaps/matrix/image.jpg?7",
+		"multiframe": true, 
+		"fps": 15, 
+		"frame_heigth": 64, 
+		"frame_width": 64, 
+		"num_frames": 10
+	 },	
+	 {
+		"name": "matrix_m0_preview",
+		"src": "colormaps/matrix/preview.png?7"
+	 },
+	 {
+            "name": "energymatrix_m0",
+            "src": "colormaps/energymatrix/image.jpg?7",
+			"multiframe": true,
+			"fps": 18,
+			"frame_heigth": 64,
+			"frame_width": 64,
+			"num_frames": 10
+        },
+        {
+            "name": "energymatrix_m0_preview",
+            "src": "colormaps/energymatrix/preview.png?7"
+        },
+	  {
+		"name": "mozaika_m0",
+		"src": "colormaps/mozaika/image.jpg?7",
+		"multiframe": true, 
+		"fps": 15, 
+		"frame_heigth": 64, 
+		"frame_width": 64, 
+		"num_frames": 20
+	 },	
+	 {
+		"name": "mozaika_m0_preview",
+		"src": "colormaps/mozaika/preview.png?7"
+	 },
+	  {
+		"name": "synesthesia_m0",
+		"src": "colormaps/synesthesia/image.jpg?7",
+		"multiframe": true, 
+		"fps": 20, 
+		"frame_heigth": 256, 
+		"frame_width": 256, 
+		"num_frames": 16
+	 },	
+	 {
+		"name": "synesthesia_m0_preview",
+		"src": "colormaps/synesthesia/preview.png?7"
+	 },
+	  {
+		"name": "galaxy_m0",
+		"src": "colormaps/galaxy/image.jpg?7",
+		"multiframe": true, 
+		"fps": 18, 
+		"frame_heigth": 128, 
+		"frame_width": 128, 
+		"num_frames": 18
+	 }, 
+	 {
+		"name": "galaxy_m0_preview",
+		"src": "colormaps/galaxy/preview.png?7"
+	 },
+	  {
+		"name": "galaxyexp_m0",
+		"src": "colormaps/galaxyexp/image.jpg?7",
+		"multiframe": true, 
+		"fps": 24, 
+		"frame_heigth": 128, 
+		"frame_width": 128, 
+		"num_frames": 64
+	 },	
+	 {
+		"name": "galaxyexp_m0_preview",
+		"src": "colormaps/galaxyexp/preview.png?7"
+	 },
+	 {
+		"name": "radiance_m0",
+		"src": "colormaps/radiance/image.jpg?7",
+		"multiframe": true,
+		"fps": 12,
+		"frame_heigth": 200,
+		"frame_width": 200,
+		"num_frames": 75
+	 },	
+	 {
+		"name": "radiance_m0_preview",
+		"src": "colormaps/radiance/preview.png?7"
+	 },
+	 {
+		"name": "nullredl_m0",
+		"src": "colormaps/nullredl/image.jpg?7",
+		"multiframe": true,
+		"fps": 25,
+		"frame_heigth": 125,
+		"frame_width": 125,
+		"num_frames": 224
+	 },
+	 {
+		"name": "nullredl_m0_preview",
+		"src": "colormaps/nullredl/preview.png?7"
+	 },
+	 {
+		"name": "garland_m0",
+		"src": "colormaps/garland/image.jpg?7",
+		"multiframe": true,
+		"fps": 3,
+		"frame_heigth": 128,
+		"frame_width": 128,
+		"num_frames": 6
+	 },	
+	 {
+            "name": "lines_m0",
+            "src": "colormaps/abstract_lines/image.jpg?22",
+            "multiframe": true,
+            "fps": 25,
+            "frame_heigth": 39,
+            "frame_width": 39,
+            "num_frames": 130
+        },
+        {
+            "name": "lines_m0_preview",
+            "src": "colormaps/abstract_lines/preview.png?7"
+        },
+		{
+            "name": "teamfgd_m0_preview",
+            "src": "colormaps/teamfgd/preview.png?7"
+        },
+		{
+            "name": "teamfgd_m0",
+            "src": "colormaps/teamfgd/image.jpg?7"
+        },
+	 {
+		"name": "garland_m0_preview",
+		"src": "colormaps/garland/preview.png?7"
+	 },
+	 {
+		"name": "cords",
+		"src": "bonus/cords.png?7"
+	 }, 
+	 {
+		"name": "parachute",
+		"src": "bonus/parachute/para.jpg?7"
+	 }, 
+	 {
+		"name": "parachute_inner",
+		"src": "bonus/parachute_inner/para_in.jpg?7"
+	 }, 
+	 {
+		"name": "bonus_box_gold",
+		"src": "bonus/boxes/crystal100/box.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_mystic",
+		"src": "bonus/boxes/mystic/box.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_gold1000",
+		"src": "bonus/boxes/crystal1000/box.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_repair",
+		"src": "bonus/boxes/repair/box.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_crystall",
+		"src": "bonus/boxes/crystal/box.jpg?7"
+	 }
+	 , 
+	 {
+		"name": "bonus_box_armor",
+		"src": "bonus/boxes/armor/box_armr.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_health",
+		"src": "bonus/boxes/med/box_med.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_damage",
+		"src": "bonus/boxes/shot/box_shot.jpg?7"
+	 },
+	 {
+		"name": "bonus_box_nitro",
+		"src": "bonus/boxes/nos/box_nos.jpg?7"
+	 },
+	{
+	"name": "map_2042_preview",
+	"src": "maps/map_2042_preview.jpg"
+	}
+	,
+	{
+	"name": "map_fabric_preview",
+	"src": "maps/map_fabric_preview.jpg"
+	}
+	,
+	{
+	"name": "map_silence_3_preview",
+	"src": "maps/map_silence_3_preview.jpg"
+	}
+	,
+	{
+	"name": "map_abyss_preview",
+	"src": "maps/map_abyss_preview.jpg"
+	}
+	,
+	{
+	"name": "map_arena_preview",
+	"src": "maps/map_arena_preview.jpg"
+	}
+	,
+	{
+	"name": "map_atra_preview",
+	"src": "maps/map_atra_preview.jpg"
+	}
+	,
+	{
+	"name": "map_babylon_preview",
+	"src": "maps/map_babylon_preview.jpg"
+	}
+	,
+	{
+	"name": "map_selo_preview",
+	"src": "maps/map_selo_preview.jpg"
+	}
+	,
+	{
+	"name": "map_selo_winter_preview",
+	"src": "maps/map_selo_winter_preview.jpg"
+	}
+	,
+	{
+	"name": "map_rayon_preview",
+	"src": "maps/map_rayon.jpg"
+	}
+	,
+	{
+	"name": "map_rayon_night_preview",
+	"src": "maps/map_rayon_night.jpg"
+	}
+	,
+	{
+	"name": "map_barda_preview",
+	"src": "maps/map_barda_preview.jpg"
+	}
+	,
+	{
+	"name": "map_berlin_preview",
+	"src": "maps/map_berlin_preview.jpg"
+	}
+	,
+	{
+	"name": "map_big_preview",
+	"src": "maps/map_big_preview.jpg"
+	}
+	,
+	{
+	"name": "map_bobruisk_preview",
+	"src": "maps/map_bobruisk_preview.jpg"
+	}
+	,
+	{
+	"name": "map_boombox_preview",
+	"src": "maps/map_boombox_preview.jpg"
+	}
+	,
+	{
+	"name": "map_brest_2_preview",
+	"src": "maps/map_brest_2_preview.jpg"
+	}
+	,
+	{
+	"name": "map_brest_preview",
+	"src": "maps/map_brest_preview.jpg"
+	}
+	,
+	{
+	"name": "map_bridges_preview",
+	"src": "maps/map_bridges_preview.jpg"
+	}
+	,
+	{
+	"name": "map_camp_preview",
+	"src": "maps/map_camp_preview.jpg"
+	}
+	,
+	{
+	"name": "map_canyon_preview",
+	"src": "maps/map_canyon_preview.jpg"
+	}
+	,
+	{
+	"name": "map_cave_preview",
+	"src": "maps/map_cave_preview.jpg"
+	}
+	,
+	{
+	"name": "map_cliffs_preview",
+	"src": "maps/map_cliffs_preview.jpg"
+	}
+	,
+	{
+	"name": "map_combe_preview",
+	"src": "maps/map_combe_preview.jpg"
+	}
+	,
+	{
+	"name": "map_courage_preview",
+	"src": "maps/map_courage_preview.jpg"
+	}
+	,
+	{
+	"name": "map_crossfire_preview",
+	"src": "maps/map_crossfire_preview.jpg"
+	}
+	,
+	{
+	"name": "map_cross_preview",
+	"src": "maps/map_cross_preview.jpg"
+	}
+	,
+	{
+	"name": "map_deathtrack_preview",
+	"src": "maps/map_deathtrack_preview.jpg"
+	}
+	,
+	{
+	"name": "map_deck9_preview",
+	"src": "maps/map_deck9_preview.jpg"
+	}
+	,
+	{
+	"name": "map_desert_preview",
+	"src": "maps/map_desert_preview.jpg"
+	}
+	,
+	{
+	"name": "map_duel_preview",
+	"src": "maps/map_duel_preview.jpg"
+	}
+	,
+	{
+	"name": "map_dukebox_preview",
+	"src": "maps/map_dukebox_preview.jpg"
+	}
+	,
+	{
+	"name": "map_duke_preview",
+	"src": "maps/map_duke_preview.jpg"
+	}
+	,
+	{
+	"name": "map_dusseldorf_preview",
+	"src": "maps/map_dusseldorf_preview.jpg"
+	}
+	,
+	{
+	"name": "map_dusseldorf_new_preview",
+	"src": "maps/map_dusseldorf_new_preview.jpg"
+	}
+	,
+	{
+	"name": "map_esplanade_preview",
+	"src": "maps/map_esplanade_preview.jpg"
+	}
+	,
+	{
+	"name": "map_factory_preview",
+	"src": "maps/map_factory_preview.jpg"
+	}
+	,
+	{
+	"name": "map_farm_preview",
+	"src": "maps/map_farm_preview.jpg"
+	}
+	,
+	{
+	"name": "map_forest_preview",
+	"src": "maps/map_forest_preview.jpg"
+	}
+	,
+	{
+	"name": "map_fortknox_preview",
+	"src": "maps/map_fortknox_preview.jpg"
+	}
+	,
+	{
+	"name": "map_fortknox_III_preview",
+	"src": "maps/map_fortknox_III_preview.jpg"
+	}
+	,
+	{
+	"name": "map_frostbattle_preview",
+	"src": "maps/map_frostbattle_preview.jpg"
+	}
+	,
+	{
+	"name": "map_garder_preview",
+	"src": "maps/map_garder_preview.jpg"
+	}
+	,
+	{
+	"name": "map_gravity_preview",
+	"src": "maps/map_gravity_preview.jpg"
+	}
+	,
+	{
+	"name": "map_gubakha_preview",
+	"src": "maps/map_gubakha_preview.jpg"
+	}
+	,
+	{
+	"name": "map_hangars_preview",
+	"src": "maps/map_hangars_preview.jpg"
+	}
+	,
+	{
+	"name": "map_highland_II_preview",
+	"src": "maps/map_highland_II_preview.jpg"
+	}
+	,
+	{
+	"name": "map_highland_preview",
+	"src": "maps/map_highland_preview.jpg"
+	}
+	,
+	{
+	"name": "map_hill_preview",
+	"src": "maps/map_hill_preview.jpg"
+	}
+	,
+	{
+	"name": "map_industrial_zone_preview",
+	"src": "maps/map_industrial_zone_preview.jpg"
+	}
+	,
+	{
+	"name": "map_iran_preview",
+	"src": "maps/map_iran_preview.jpg"
+	}
+	,
+	{
+	"name": "map_island_preview",
+	"src": "maps/map_island_preview.jpg"
+	}
+	,
+	{
+	"name": "map_kolhoz_preview",
+	"src": "maps/map_kolhoz_preview.jpg"
+	}
+	,
+	{
+	"name": "map_kungur_preview",
+	"src": "maps/map_kungur_preview.jpg"
+	}
+	,
+	{
+	"name": "map_legacy_preview",
+	"src": "maps/map_legacy_preview.jpg"
+	}
+	,
+	{
+	"name": "map_losttemple_preview",
+	"src": "maps/map_losttemple_preview.jpg"
+	}
+	,
+	{
+	"name": "map_madness_preview",
+	"src": "maps/map_madness_preview.jpg"
+	}
+	,
+	{
+	"name": "map_magadan_preview",
+	"src": "maps/map_magadan_preview.jpg"
+	}
+	,
+	{
+	"name": "map_magistral_preview",
+	"src": "maps/map_magistral_preview.jpg"
+	}
+	,
+	{
+	"name": "map_massacre_preview",
+	"src": "maps/map_massacre_preview.jpg"
+	}
+	,
+	{
+	"name": "map_megaprops1_preview",
+	"src": "maps/map_megaprops1_preview.jpg"
+	}
+	,
+	{
+	"name": "map_middle_preview",
+	"src": "maps/map_middle_preview.jpg"
+	}
+	,
+	{
+	"name": "map_molotov_preview",
+	"src": "maps/map_molotov_preview.jpg"
+	}
+	,
+	{
+	"name": "map_montecarlo_preview",
+	"src": "maps/map_montecarlo_preview.jpg"
+	}
+	,
+	{
+	"name": "map_new_sandbox_preview",
+	"src": "maps/map_new_sandbox_preview.jpg"
+	}
+	,
+	{
+	"name": "map_new_tribute_preview",
+	"src": "maps/map_new_tribute_preview.jpg"
+	}
+	,
+	{
+	"name": "map_noise_preview",
+	"src": "maps/map_noise_preview.jpg"
+	}
+	,
+	{
+	"name": "map_noob_preview",
+	"src": "maps/map_noob_preview.jpg"
+	}
+	,
+	{
+	"name": "map_novel_preview",
+	"src": "maps/map_novel_preview.jpg"
+	}
+	,
+	{
+	"name": "map_opposition_preview",
+	"src": "maps/map_opposition_preview.jpg"
+	}
+	,
+	{
+	"name": "map_osa_preview",
+	"src": "maps/map_osa_preview.jpg"
+	}
+	,
+	{
+	"name": "map_parma_preview",
+	"src": "maps/map_parma_preview.jpg"
+	}
+	,
+	{
+	"name": "map_pass_preview",
+	"src": "maps/map_pass_preview.jpg"
+	}
+	,
+	{
+	"name": "map_pingpong_preview",
+	"src": "maps/map_pingpong_preview.jpg"
+	}
+	,
+	{
+	"name": "map_polygon_preview",
+	"src": "maps/map_polygon_preview.jpg"
+	}
+	,
+	{
+	"name": "map_polygon_night_preview",
+	"src": "maps/map_polygon_night_preview.jpg"
+	}
+	,
+	{
+	"name": "map_position_preview",
+	"src": "maps/map_position_preview.jpg"
+	}
+	,
+	{
+	"name": "map_raven_preview",
+	"src": "maps/map_raven_preview.jpg"
+	}
+	,
+	{
+	"name": "map_redalert_preview",
+	"src": "maps/map_redalert_preview.jpg"
+	}
+	,
+	{
+	"name": "map_remake_preview",
+	"src": "maps/map_remake_preview.jpg"
+	}
+	,
+	{
+	"name": "map_sandal_preview",
+	"src": "maps/map_sandal_preview.jpg"
+	}
+	,
+	{
+	"name": "map_sandal_halloween_preview",
+	"src": "maps/map_sandal_halloween_preview.jpg"
+	}
+	,
+	{
+	"name": "map_sandbox_preview",
+	"src": "maps/map_sandbox_preview.jpg"
+	}
+	,
+	{
+	"name": "map_sandbox_night_preview",
+	"src": "maps/map_sandbox_night_preview.jpg"
+	}
+	,
+	{
+	"name": "map_scope_preview",
+	"src": "maps/map_scope_preview.jpg"
+	}
+	,
+	{
+	"name": "map_serpuhov_preview",
+	"src": "maps/map_serpuhov_preview.jpg"
+	}
+	,
+	{
+	"name": "map_shortbridge_preview",
+	"src": "maps/map_shortbridge_preview.jpg"
+	}
+	,
+	{
+	"name": "map_siege_preview",
+	"src": "maps/map_siege_preview.jpg"
+	}
+	,
+	{
+	"name": "map_silence_preview",
+	"src": "maps/map_silence_preview.jpg"
+	}
+	,
+	{
+	"name": "map_silence_night_preview",
+	"src": "maps/map_silence_night_preview.jpg"
+	}
+	,
+	{
+	"name": "map_skylark_preview",
+	"src": "maps/map_skylark_preview.jpg"
+	}
+	,
+	{
+	"name": "map_solikamsk_preview",
+	"src": "maps/map_solikamsk_preview.jpg"
+	}
+	,
+	{
+	"name": "map_stadium_preview",
+	"src": "maps/map_stadium_preview.jpg"
+	}
+	,
+	{
+	"name": "map_stadium_night_preview",
+	"src": "maps/map_stadium_night_preview.jpg"
+	}
+	,
+	{
+	"name": "map_station_preview",
+	"src": "maps/map_station_preview.jpg"
+	}
+	,
+	{
+	"name": "map_subway_preview",
+	"src": "maps/map_subway_preview.jpg"
+	}
+	,
+	{
+	"name": "map_tankball_preview",
+	"src": "maps/map_tankball_preview.jpg"
+	}
+	,
+	{
+	"name": "map_testing_ground_1",
+	"src": "maps/map_testing_ground_1.jpg"
+	}
+	,
+	{
+	"name": "map_test_new_preview",
+	"src": "maps/map_test_new_preview.jpg"
+	}
+	,
+	{
+	"name": "map_test_preview",
+	"src": "maps/map_test_preview.jpg"
+	}
+	,
+	{
+	"name": "map_tribute_preview",
+	"src": "maps/map_tribute_preview.jpg"
+	}
+	,
+	{
+	"name": "map_valley_preview",
+	"src": "maps/map_valley_preview.jpg"
+	}
+	,
+	{
+	"name": "map_wave_preview",
+	"src": "maps/map_wave_preview.jpg"
+	}
+	,
+	{
+	"name": "map_wolfenstein_preview",
+	"src": "maps/map_wolfenstein_preview.jpg"
+	}
+	,
+	{
+	"name": "map_zone_preview",
+	"src": "maps/map_zone_preview.jpg"
+	},
+	{
+	"name": "map_fortknox_II_preview",
+	"src": "maps/map_fortknox_II_preview.jpg"
+	},
+	{
+	"name": "map_testing_ground_1_preview",
+	"src": "maps/map_testing_ground_1.jpg"
+	},
+	{
+	"name": "map_flying_test_preview",
+	"src": "maps/map_testing_ground_1.jpg"
+	},
+	{
+	"name": "map_silence_2_preview",
+	"src": "maps/map_silence_2_preview.jpg"
+	},
+	{
+	"name": "map_silence_2_night_preview",
+	"src": "maps/map_silence_2_night_preview.jpg"
+	},
+	{
+	"name": "map_test_k_preview",
+	"src": "maps/map_test_k_preview.jpg"
+	}
+	,
+	{
+	"name": "map_shadow_preview",
+	"src": "maps/map_shadow_preview.jpg"
+	},
+	{
+	"name": "map_arena_2_preview",
+	"src": "maps/map_arena_2.jpg"
+	},
+	{
+	"name": "map_astrella_preview",
+	"src": "maps/map_astrella.jpg"
+	},
+	{
+	"name": "map_atra_2_preview",
+	"src": "maps/map_atra_2.jpg"
+	},
+	{
+	"name": "map_carousel_preview",
+	"src": "maps/map_carousel.jpg"
+	},
+	{
+	"name": "map_chornobyl_preview",
+	"src": "maps/map_chornobyl.jpg"
+	},
+	{
+	"name": "map_dualiti_preview",
+	"src": "maps/map_dualiti.jpg"
+	},
+	{
+	"name": "map_highway_preview",
+	"src": "maps/map_highway_preview.jpg"
+	},
+	{
+	"name": "map_new_kungur_preview",
+	"src": "maps/map_new_kungur.jpg"
+	},
+	{
+	"name": "map_rift_preview",
+	"src": "maps/map_rift_preview.jpg"
+	},
+	{
+	"name": "map_halloween_2020_preview",
+	"src": "maps/map_halloween_2020_preview.jpg"
+	},
+	{
+	"name": "map_rio_night_preview",
+	"src": "maps/map_rio_night_preview.jpg"
+	},
+	{
+	"name": "map_earthquake_preview",
+	"src": "maps/map_halloween_preview.jpg"
+	},
+	{
+	"name": "map_containers_preview",
+	"src": "maps/map_halloween_preview.jpg"
+	},
+	{
+	"name": "map_dust_preview",
+	"src": "maps/map_halloween_preview.jpg"
+	},
+	{
+	"name": "map_bastion_preview",
+	"src": "maps/map_bastion_preview.jpg"
+	},
+	{
+	"name": "map_bastion_winter_preview",
+	"src": "maps/map_bastion_winter_preview.jpg"
+	},
+	{
+	"name": "map_cybersport_preview",
+	"src": "maps/map_halloween_preview.jpg"
+	},	
+	{
+	"name": "map_arena_winter_preview",
+	"src": "maps/map_arena_winter_preview.jpg"
+	},	
+	{
+	"name": "map_atra_2_winter_preview",
+	"src": "maps/map_atra_2_winter_preview.jpg"
+	},	
+	{
+	"name": "map_atra_winter_preview",
+	"src": "maps/map_atra_winter_preview.jpg"
+	},	
+	{
+	"name": "map_barda_winter_preview",
+	"src": "maps/map_barda_winter_preview.jpg"
+	},	
+	{
+	"name": "map_berlin_winter_preview",
+	"src": "maps/map_berlin_winter_preview.jpg"
+	},	
+	{
+	"name": "map_bobruisk_winter_preview",
+	"src": "maps/map_bobruisk_winter_preview.jpg"
+	},						
+	{
+	"name": "map_boombox_winter_preview",
+	"src": "maps/map_boombox_winter_preview.jpg"
+	},		
+	{
+	"name": "map_brest_2_winter_preview",
+	"src": "maps/map_brest_2_winter_preview.jpg"
+	},		
+	{
+	"name": "map_brest_winter_preview",
+	"src": "maps/map_brest_winter_preview.jpg"
+	},		
+	{
+	"name": "map_bridges_winter_preview",
+	"src": "maps/map_bridges_winter_preview.jpg"
+	},	
+	{
+	"name": "map_camp_winter_preview",
+	"src": "maps/map_camp_winter_preview.jpg"
+	},	
+	{
+	"name": "map_canyon_winter_preview",
+	"src": "maps/map_canyon_winter_preview.jpg"
+	},		
+	{
+	"name": "map_chornobyl_winter_preview",
+	"src": "maps/map_chornobyl_winter_preview.jpg"
+	},	
+	{
+	"name": "map_combe_winter_preview",
+	"src": "maps/map_combe_winter_preview.jpg"
+	},	
+	{
+	"name": "map_courage_winter_preview",
+	"src": "maps/map_courage_winter_preview.jpg"
+	},	
+	{
+	"name": "map_cross_winter_preview",
+	"src": "maps/map_cross_winter_preview.jpg"
+	},	
+	{
+	"name": "map_deathtrack_winter_preview",
+	"src": "maps/map_deathtrack_winter_preview.jpg"
+	},	
+	{
+	"name": "map_deck9_winter_preview",
+	"src": "maps/map_deck9_winter_preview.jpg"
+	},	
+	{
+	"name": "map_dualiti_winter_preview",
+	"src": "maps/map_dualiti_winter_preview.jpg"
+	},	
+	{
+	"name": "map_duel_winter_preview",
+	"src": "maps/map_duel_winter_preview.jpg"
+	},	
+	{
+	"name": "map_dusseldorf_winter_preview",
+	"src": "maps/map_dusseldorf_winter_preview.jpg"
+	},	
+	{
+	"name": "map_farm_winter_preview",
+	"src": "maps/map_farm_winter_preview.jpg"
+	},	
+	{
+	"name": "map_forest_winter_preview",
+	"src": "maps/map_forest_winter_preview.jpg"
+	},	
+	{
+	"name": "map_fortknox_winter_preview",
+	"src": "maps/map_fortknox_winter_preview.jpg"
+	},	
+	{
+	"name": "map_fortknox_II_winter_preview",
+	"src": "maps/map_fortknox_II_winter_preview.jpg"
+	},	
+	{
+	"name": "map_garder_winter_preview",
+	"src": "maps/map_garder_winter_preview.jpg"
+	},	
+	{
+	"name": "map_gravity_winter_preview",
+	"src": "maps/map_gravity_winter_preview.jpg"
+	},	
+	{
+	"name": "map_gubakha_winter_preview",
+	"src": "maps/map_gubakha_winter_preview.jpg"
+	},	
+	{
+	"name": "map_highland_II_winter_preview",
+	"src": "maps/map_highland_II_winter_preview.jpg"
+	},	
+	{
+	"name": "map_highland_winter_preview",
+	"src": "maps/map_highland_winter_preview.jpg"
+	},	
+	{
+	"name": "map_highway_winter_preview",
+	"src": "maps/map_highway_winter_preview.jpg"
+	},	
+	{
+	"name": "map_industrial_zone_winter_preview",
+	"src": "maps/map_industrial_zone_winter.jpg"
+	},	
+	{
+	"name": "map_island_winter_preview",
+	"src": "maps/map_island_winter_preview.jpg"
+	} ,	
+	{
+	"name": "map_kolhoz_winter_preview",
+	"src": "maps/map_kolhoz_winter_preview.jpg"
+	},	
+	{
+	"name": "map_kungur_winter_preview",
+	"src": "maps/map_kungur_winter_preview.jpg"
+	},	
+	{
+	"name": "map_losttemple_winter_preview",
+	"src": "maps/map_losttemple_winter_preview.jpg"
+	},	
+	{
+	"name": "map_magadan_winter_preview",
+	"src": "maps/map_magadan_winter_preview.jpg"
+	},	
+	{
+	"name": "map_magistral_winter_preview",
+	"src": "maps/map_magistral_winter_preview.jpg"
+	},	
+	{
+	"name": "map_massacre_winter_preview",
+	"src": "maps/map_massacre_winter_preview.jpg"
+	},	
+	{
+	"name": "map_molotov_winter_preview",
+	"src": "maps/map_molotov_winter_preview.jpg"
+	},	
+	{
+	"name": "map_montecarlo_winter_preview",
+	"src": "maps/map_montecarlo_winter_preview.jpg"
+	},	
+	{
+	"name": "map_noise_winter_preview",
+	"src": "maps/map_noise_winter_preview.jpg"
+	},	
+	{
+	"name": "map_novel_winter_preview",
+	"src": "maps/map_novel_winter_preview.jpg"
+	},	
+	{
+	"name": "map_opposition_winter_preview",
+	"src": "maps/map_opposition_winter_preview.jpg"
+	},	
+	{
+	"name": "map_osa_winter_preview",
+	"src": "maps/map_osa_winter_preview.jpg"
+	},	
+	{
+	"name": "map_parma_winter_preview",
+	"src": "maps/map_parma_winter_preview.jpg"
+	},	
+	{
+	"name": "map_pass_winter_preview",
+	"src": "maps/map_pass_winter_preview.jpg"
+	},	
+	{
+	"name": "map_pingpong_winter_preview",
+	"src": "maps/map_pingpong_winter_preview.jpg"
+	},	
+	{
+	"name": "map_polygon_halloween_preview",
+	"src": "maps/map_polygon_halloween_preview.jpg"
+	},	
+	{
+	"name": "map_polygon_winter_preview",
+	"src": "maps/map_polygon_winter_preview.jpg"
+	},	
+	{
+	"name": "map_redalert_winter_preview",
+	"src": "maps/map_redalert_winter_preview.jpg"
+	},	
+	{
+	"name": "map_sandal_winter_preview",
+	"src": "maps/map_sandal_winter_preview.jpg"
+	},	
+	{
+	"name": "map_sandbox_winter_preview",
+	"src": "maps/map_sandbox_winter_preview.jpg"
+	},	
+	{
+	"name": "map_scope_winter_preview",
+	"src": "maps/map_scope_winter_preview.jpg"
+	},	
+	{
+	"name": "map_serpuhov_winter_preview",
+	"src": "maps/map_serpuhov_winter_preview.jpg"
+	},	
+	{
+	"name": "map_siege_winter_preview",
+	"src": "maps/map_siege_winter_preview.jpg"
+	},	
+	{
+	"name": "map_silence_2_winter_preview",
+	"src": "maps/map_silence_2_winter_preview.jpg"
+	},	
+	{
+	"name": "map_silence_winter_preview",
+	"src": "maps/map_silence_winter_preview.jpg"
+	},	
+	{
+	"name": "map_skylark_winter_preview",
+	"src": "maps/map_skylark_winter_preview.jpg"
+	},	
+	{
+	"name": "map_solikamsk_winter_preview",
+	"src": "maps/map_solikamsk_winter_preview.jpg"
+	},	
+	{
+	"name": "map_stadium_winter_preview",
+	"src": "maps/map_stadium_winter_preview.jpg"
+	},	
+	{
+	"name": "map_station_winter_preview",
+	"src": "maps/map_station_winter_preview.jpg"
+	},	
+	{
+	"name": "map_subway_winter_preview",
+	"src": "maps/map_subway_winter_preview.jpg"
+	},		
+	{
+	"name": "map_tribute_winter_preview",
+	"src": "maps/map_tribute_winter_preview.jpg"
+	},	
+	{
+	"name": "map_valley_winter_preview",
+	"src": "maps/map_valley_winter_preview.jpg"
+	},	
+	{
+	"name": "map_train_station_preview",
+	"src": "maps/map_train_station_preview.jpg"
+	},	
+	{
+	"name": "map_train_station_winter_preview",
+	"src": "maps/map_train_station_winter_preview.jpg"
+	},	
+	{
+	"name": "map_wave_winter_preview",
+	"src": "maps/map_wave_winter_preview.jpg"
+	},	
+	{
+	"name": "map_wolfenstein_winter_preview",
+	"src": "maps/map_wolfenstein_winter_preview.jpg"
+	},	
+	{
+	"name": "map_zone_winter_preview",
+	"src": "maps/map_zone_winter_preview.jpg"
+	},		
+	{
+	"name": "map_desert_winter_preview",
+	"src": "maps/map_desert_winter_preview.jpg"
+	},
+	{
+	"name": "map_desert_halloween_preview",
+	"src": "maps/map_desert_halloween_preview.jpg"
+	},
+	{
+	"name": "map_esplanade_winter_preview",
+	"src": "maps/map_esplanade_winter_preview.jpg"
+	},	
+	{
+	"name": "map_fortknox_III_winter_preview",
+	"src": "maps/map_fortknox_III_winter_preview.jpg"
+	},	
+	{
+	"name": "map_hangars_winter_preview",
+	"src": "maps/map_hangars_winter_preview.jpg"
+	},	
+	{
+	"name": "map_hill_winter_preview",
+	"src": "maps/map_hill_winter_preview.jpg"
+	},							
+	{
+	"name": "map_madness_winter_preview",
+	"src": "maps/map_madness_winter_preview.jpg"
+	},		
+	{
+	"name": "map_rift_winter_preview",
+	"src": "maps/map_rift_winter_preview.jpg"
+	},		
+	{
+	"name": "map_position_winter_preview",
+	"src": "maps/map_position_winter_preview.jpg"
+	},			
+	{
+	"name": "map_abyss_winter_preview",
+	"src": "maps/map_abyss_winter_preview.jpg"
+	},	
+	{
+	"name": "map_shortbridge_winter_preview",
+	"src": "maps/map_shortbridge_winter_preview.jpg"
+	},		
+	{
+	"name": "map_2042_winter_preview",
+	"src": "maps/map_2042_winter_preview.jpg"
+	},
+	{
+	"name": "map_koenigsberg_preview",
+	"src": "maps/keninsberg_preview.jpg"
+	},		
+	{
+	"name": "railgun_m0_shot",
+	"src": "turret/railgun/m0/railgun.png?7"
+	},
+	{
+	"name": "railgun_m1_shot",
+	"src": "turret/railgun/m1/railgun.png?7"
+	},
+	{
+	"name": "railgun_m2_shot",
+	"src": "turret/railgun/m2/railgun.png?7"
+	},
+	{
+	"name": "railgun_m3_shot",
+	"src": "turret/railgun/m3/railgun.png?7"
+	},
+	{
+	"name": "railgun_m0_spiral",
+	"src": "turret/railgun/m0/spiral.png?7"
+	},
+	{
+	"name": "railgun_m1_spiral",
+	"src": "turret/railgun/m1/spiral.png?7"
+	},
+	{
+	"name": "railgun_m2_spiral",
+	"src": "turret/railgun/m2/spiral.png?7"
+	},
+	{
+	"name": "railgun_m3_spiral",
+	"src": "turret/railgun/m3/spiral.png?7"
+	},
+	{
+	"name": "railgun_m0_chargingPart1",
+	"src": "turret/railgun/m0/charge_part1.png?7"
+	},
+	{
+	"name": "railgun_m0_chargingPart2",
+	"src": "turret/railgun/m0/charge_part2.png?7"
+	},
+	{
+	"name": "railgun_m0_chargingPart3",
+	"src": "turret/railgun/m0/charge_part3.png?7"
+	},
+	{
+	"name": "railgun_m1_chargingPart1",
+	"src": "turret/railgun/m1/charge_part1.png?7"
+	},
+	{
+	"name": "railgun_m1_chargingPart2",
+	"src": "turret/railgun/m1/charge_part2.png?7"
+	},
+	{
+	"name": "railgun_m1_chargingPart3",
+	"src": "turret/railgun/m1/charge_part3.png?7"
+	},
+	{
+	"name": "railgun_m2_chargingPart1",
+	"src": "turret/railgun/m2/charge_part1.png?7"
+	},
+	{
+	"name": "railgun_m2_chargingPart2",
+	"src": "turret/railgun/m2/charge_part2.png?7"
+	},
+	{
+	"name": "railgun_m2_chargingPart3",
+	"src": "turret/railgun/m2/charge_part3.png?7"
+	},
+	{
+	"name": "railgun_m3_chargingPart1",
+	"src": "turret/railgun/m3/charge_part1.png?7"
+	},
+	{
+	"name": "railgun_m3_chargingPart2",
+	"src": "turret/railgun/m3/charge_part2.png?7"
+	} ,
+	{
+	"name": "railgun_m3_chargingPart3",
+	"src": "turret/railgun/m3/charge_part3.png?7"
+	},
+	{
+	"name": "smoky_m0_shot",
+	"src": "turret/smoky/m0/shot.png?7"
+	},
+	{
+	"name": "smoky_m1_shot",
+	"src": "turret/smoky/m1/shot.png?7"
+	},
+	{
+	"name": "smoky_m2_shot",
+	"src": "turret/smoky/m2/shot.png?7"
+	},
+	{
+	"name": "smoky_m3_shot",
+	"src": "turret/smoky/m3/shot.png?7"
+	},
+	{
+	"name": "smoky_m0_explosion",
+	"src": "turret/smoky/m0/fire.png?7"
+	},
+	{
+	"name": "smoky_m1_explosion",
+	"src": "turret/smoky/m1/fire.png?7"
+	}
+	,
+	{
+	"name": "smoky_m2_explosion",
+	"src": "turret/smoky/m2/fire.png?7"
+	}
+	,
+	{
+	"name": "smoky_m3_explosion",
+	"src": "turret/smoky/m3/fire.png?7"
+	},
+	{
+	"name": "flamethrower_m0_fire",
+	"src": "turret/flamethrower/m0/fireball.png?7"
+	},
+	{
+	"name": "flamethrower_m1_fire",
+	"src": "turret/flamethrower/m1/fireball.png?7"
+	},
+	{
+	"name": "flamethrower_m2_fire",
+	"src": "turret/flamethrower/m2/fireball.png?7"
+	},
+	{
+	"name": "flamethrower_m3_fire",
+	"src": "turret/flamethrower/m3/fireball.png?7"
+	},
+	{
+	"name": "twins_m0_explosionTexture",
+	"src": "turret/twins/m0/explosion.png?7"
+	},
+	{
+	"name": "twins_m1_explosionTexture",
+	"src": "turret/twins/m1/explosion.png?7"
+	},
+	{
+	"name": "twins_m2_explosionTexture",
+	"src": "turret/twins/m2/explosion.png?7"
+	},
+	{
+	"name": "twins_m3_explosionTexture",
+	"src": "turret/twins/m3/explosion.png?7"
+	},
+	{
+	"name": "twins_m0_plasmaTexture",
+	"src": "turret/twins/m0/charge.png?7"
+	},
+	{
+	"name": "twins_m1_plasmaTexture",
+	"src": "turret/twins/m1/charge.png?7"
+	},
+	{
+	"name": "twins_m2_plasmaTexture",
+	"src": "turret/twins/m2/charge.png?7"
+	},
+	{
+	"name": "twins_m3_plasmaTexture",
+	"src": "turret/twins/m3/charge.png?7"
+	},
+	{
+	"name": "twins_m0_shotTexture",
+	"src": "turret/twins/m0/shot.png?7"
+	},
+	{
+	"name": "twins_m1_shotTexture",
+	"src": "turret/twins/m1/shot.png?7"
+	},
+	{
+	"name": "twins_m2_shotTexture",
+	"src": "turret/twins/m2/shot.png?7"
+	},
+	{
+	"name": "twins_m3_shotTexture",
+	"src": "turret/twins/m3/shot.png?7"
+	},
+	{
+	"name": "isida_m0_damagingRayId",
+	"src": "turret/isida/m0/damage_shaft.png?7"
+	},
+	{
+	"name": "isida_m0_damagingTargetBallId",
+	"src": "turret/isida/m0/damage_end.png?7"
+	},
+	{
+	"name": "isida_m0_damagingWeaponBallId",
+	"src": "turret/isida/m0/damage_start.png?7"
+	},
+	{
+	"name": "isida_m0_healingRayId",
+	"src": "turret/isida/m0/heal_shaft.png?7"
+	},
+	{
+	"name": "isida_m0_healingTargetBallId",
+	"src": "turret/isida/m0/heal_end.png?7"
+	},
+	{
+	"name": "isida_m0_healingWeaponBallId",
+	"src": "turret/isida/m0/heal_start.png?7"
+	},
+	{
+	"name": "isida_m0_idleWeaponBallId",
+	"src": "turret/isida/m0/idle_spark.png?7"
+	},
+	{
+	"name": "isida_m1_damagingRayId",
+	"src": "turret/isida/m1/damage_shaft.png?7"
+	},
+	{
+	"name": "isida_m1_damagingTargetBallId",
+	"src": "turret/isida/m1/damage_end.png?7"
+	},
+	{
+	"name": "isida_m1_damagingWeaponBallId",
+	"src": "turret/isida/m1/damage_start.png?7"
+	},
+	{
+	"name": "isida_m1_healingRayId",
+	"src": "turret/isida/m1/heal_shaft.png?7"
+	},
+	{
+            "name": "shaft_m0_preview",
+            "src": "turret/shaft/m0/preview.png?7"
+        },
+        {
+            "name": "shaft_m0_lightmap",
+            "src": "turret/shaft/m0/lightmap.jpg?7"
+        },
+        {
+            "name": "shaft_m0_details",
+            "src": "turret/shaft/m0/details.png?7"
+        },
+        {
+            "name": "shaft_m0_trail",
+            "src": "turret/shaft/m0/shaft_trail.png?7"
+        },
+        {
+            "name": "shaft_m1_preview",
+            "src": "turret/shaft/m1/preview.png?7"
+        },
+        {
+            "name": "shaft_m1_lightmap",
+            "src": "turret/shaft/m1/lightmap.jpg?7"
+        },
+        {
+            "name": "shaft_m1_details",
+            "src": "turret/shaft/m1/details.png?7"
+        },
+        {
+            "name": "shaft_m1_trail",
+            "src": "turret/shaft/m1/shaft_trail.png?7"
+        },
+        {
+            "name": "shaft_m2_preview",
+            "src": "turret/shaft/m2/preview.png?7"
+        },
+        {
+            "name": "shaft_m2_lightmap",
+            "src": "turret/shaft/m2/lightmap.jpg?7"
+        },
+        {
+            "name": "shaft_m2_details",
+            "src": "turret/shaft/m2/details.png?7"
+        },
+        {
+            "name": "shaft_m2_trail",
+            "src": "turret/shaft/m2/shaft_trail.png?7"
+        },
+        {
+            "name": "shaft_m3_preview",
+            "src": "turret/shaft/m3/preview.png?7"
+        },
+        {
+            "name": "shaft_m3_lightmap",
+            "src": "turret/shaft/m3/lightmap.jpg?7"
+        },
+        {
+            "name": "shaft_m3_details",
+            "src": "turret/shaft/m3/details.png?7"
+        },
+        {
+            "name": "shaft_m3_trail",
+            "src": "turret/shaft/m3/shaft_trail.png?7"
+        },
+		{
+		    "name": "shaftxt_m0_lightmap",
+            "src": "turret/shaft/xt/lightmap.jpg?7"
+        },
+		{
+            "name": "shaftxt_m0_preview",
+            "src": "turret/shaft/xt/preview.png?7"
+        },
+        {
+            "name": "shaftxt_m0_details",
+            "src": "turret/shaft/xt/details.png?7"
+        },
+        {
+            "name": "shaftxt_m0_trail",
+            "src": "turret/shaft/xt/shaft_trail.png?7"
+        },
+		{
+            "name": "shaft_m0_explosionTexture",
+            "src": "turret/shaft/m0/shaft_explosion.png?7"
+        },
+        {
+            "name": "shaft_m0_shot",
+            "src": "turret/shaft/m0/shaft_shot.png?7"
+        },
+        {
+            "name": "shaft_m1_explosionTexture",
+            "src": "turret/shaft/m1/shaft_explosion.png?7"
+        },
+        {
+            "name": "shaft_m1_shot",
+            "src": "turret/shaft/m1/shaft_shot.png?7"
+        },
+        {
+            "name": "shaft_m2_shot",
+            "src": "turret/shaft/m2/shaft_shot.png?7"
+        },
+        {
+            "name": "shaft_m2_explosionTexture",
+            "src": "turret/shaft/m2/shaft_explosion.png?7"
+        },
+        {
+            "name": "shaft_m3_explosionTexture",
+            "src": "turret/shaft/m3/shaft_explosion.png?7"
+        },
+        {
+            "name": "shaft_m3_shot",
+            "src": "turret/shaft/m3/shaft_shot.png?7"
+        },
+		{
+            "name": "shaftxt_m0_explosionTexture",
+            "src": "turret/shaft/xt/shaft_explosion.png?7"
+        },
+        {
+            "name": "shaftxt_m0_shot",
+            "src": "turret/shaft/xt/shaft_shot.png?7"
+        },
+	{
+	"name": "isida_m1_healingTargetBallId",
+	"src": "turret/isida/m1/heal_end.png?7"
+	},
+	{
+	"name": "isida_m1_healingWeaponBallId",
+	"src": "turret/isida/m1/heal_start.png?7"
+	},
+	{
+	"name": "isida_m1_idleWeaponBallId",
+	"src": "turret/isida/m1/idle_spark.png?7"
+	},
+	{
+	"name": "isida_m2_damagingRayId",
+	"src": "turret/isida/m2/damage_shaft.png?7"
+	},
+	{
+	"name": "isida_m2_damagingTargetBallId",
+	"src": "turret/isida/m2/damage_end.png?7"
+	},
+	{
+	"name": "isida_m2_damagingWeaponBallId",
+	"src": "turret/isida/m2/damage_start.png?7"
+	},
+	{
+	"name": "isida_m2_healingRayId",
+	"src": "turret/isida/m2/heal_shaft.png?7"
+	},
+	{
+	"name": "isida_m2_healingTargetBallId",
+	"src": "turret/isida/m2/heal_end.png?7"
+	},
+	{
+	"name": "isida_m2_healingWeaponBallId",
+	"src": "turret/isida/m2/heal_start.png?7"
+	},
+	{
+	"name": "isida_m2_idleWeaponBallId",
+	"src": "turret/isida/m2/idle_spark.png?7"
+	},
+	{
+	"name": "isida_m3_damagingRayId",
+	"src": "turret/isida/m3/damage_shaft.png?7"
+	},
+	{
+	"name": "isida_m3_damagingTargetBallId",
+	"src": "turret/isida/m3/damage_end.png?7"
+	},
+	{
+	"name": "isida_m3_damagingWeaponBallId",
+	"src": "turret/isida/m3/damage_start.png?7"
+	},
+	{
+	"name": "isida_m3_healingRayId",
+	"src": "turret/isida/m3/heal_shaft.png?7"
+	},
+	{
+	"name": "isida_m3_healingTargetBallId",
+	"src": "turret/isida/m3/heal_end.png?7"
+	},
+	{
+	"name": "isida_m3_healingWeaponBallId",
+	"src": "turret/isida/m3/heal_start.png?7"
+	},
+	{
+	"name": "isida_m3_idleWeaponBallId",
+	"src": "turret/isida/m3/idle_spark.png?7"
+	},
+	{
+	"name": "thunder_m0_explosionResourceId",
+	"src": "turret/thunder/m0/fire.png?7"
+	},
+	{
+	"name": "thunder_m0_shotResourceId",
+	"src": "turret/thunder/m0/shot.png?7"
+	},
+	{
+	"name": "thunder_m1_explosionResourceId",
+	"src": "turret/thunder/m1/fire.png?7"
+	},
+	{
+	"name": "thunder_m1_shotResourceId",
+	"src": "turret/thunder/m1/shot.png?7"
+	},
+	{
+	"name": "thunder_m2_explosionResourceId",
+	"src": "turret/thunder/m2/fire.png?7"
+	},
+	{
+	"name": "thunder_m2_shotResourceId",
+	"src": "turret/thunder/m2/shot.png?7"
+	},
+	{
+	"name": "thunder_m3_explosionResourceId",
+	"src": "turret/thunder/m3/fire.png?7"
+	},
+	{
+	"name": "thunder_m3_shotResourceId",
+	"src": "turret/thunder/m3/shot.png?7"
+	},
+	{
+	"name": "frezee_m0_particleTextureResourceId",
+	"src": "turret/frezee/m0/snow_flake.png?7"
+	},
+	{
+	"name": "frezee_m0_planeTextureResourceId",
+	"src": "turret/frezee/m0/snow_breeze.png?7"
+	},
+	{
+	"name": "frezee_m1_particleTextureResourceId",
+	"src": "turret/frezee/m1/snow_flake.png?7"
+	},
+	{
+	"name": "frezee_m1_planeTextureResourceId",
+	"src": "turret/frezee/m1/snow_breeze.png?7"
+	},
+	{
+	"name": "frezee_m2_particleTextureResourceId",
+	"src": "turret/frezee/m2/snow_flake.png?7"
+	},
+	{
+	"name": "frezee_m2_planeTextureResourceId",
+	"src": "turret/frezee/m2/snow_breeze.png?7"
+	},
+	{
+	"name": "frezee_m3_particleTextureResourceId",
+	"src": "turret/frezee/m3/snow_flake.png?7"
+	},
+	{
+	"name": "frezee_m3_planeTextureResourceId",
+	"src": "turret/frezee/m3/snow_breeze.png?7"
+	},
+	{
+	"name": "ricochet_m0_bumpFlashTextureId",
+	"src": "turret/ricochet/m0/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m0_explosionTextureId",
+	"src": "turret/ricochet/m0/ricochet_explosion.png?7"
+	},
+	{
+	"name": "ricochet_m0_shotFlashTextureId",
+	"src": "turret/ricochet/m0/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m0_shotTextureId",
+	"src": "turret/ricochet/m0/ricochet_shot.png?7"
+	},
+	{
+	"name": "ricochet_m0_tailTrailTextureId",
+	"src": "turret/ricochet/m0/ricochet_shot_trail.png?7"
+	},
+	{
+	"name": "ricochet_m1_bumpFlashTextureId",
+	"src": "turret/ricochet/m1/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m1_explosionTextureId",
+	"src": "turret/ricochet/m1/ricochet_explosion.png?7"
+	},
+	{
+	"name": "ricochet_m1_shotFlashTextureId",
+	"src": "turret/ricochet/m1/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m1_shotTextureId",
+	"src": "turret/ricochet/m1/ricochet_shot.png?7"
+	},
+	{
+	"name": "ricochet_m1_tailTrailTextureId",
+	"src": "turret/ricochet/m1/ricochet_shot_trail.png?7"
+	},
+	{
+	"name": "ricochet_m2_bumpFlashTextureId",
+	"src": "turret/ricochet/m2/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m2_explosionTextureId",
+	"src": "turret/ricochet/m2/ricochet_explosion.png?7"
+	},
+	{
+	"name": "ricochet_m2_shotFlashTextureId",
+	"src": "turret/ricochet/m2/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m2_shotTextureId",
+	"src": "turret/ricochet/m2/ricochet_shot.png?7"
+	},
+	{
+	"name": "ricochet_m2_tailTrailTextureId",
+	"src": "turret/ricochet/m2/ricochet_shot_trail.png?7"
+	},
+	{
+	"name": "ricochet_m3_bumpFlashTextureId",
+	"src": "turret/ricochet/m3/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m3_explosionTextureId",
+	"src": "turret/ricochet/m3/ricochet_explosion.png?7"
+	},
+	{
+	"name": "ricochet_m3_shotFlashTextureId",
+	"src": "turret/ricochet/m3/ricochet_shot_flash.png?7"
+	},
+	{
+	"name": "ricochet_m3_shotTextureId",
+	"src": "turret/ricochet/m3/ricochet_shot.png?7"
+	},
+	{
+	"name": "ricochet_m3_tailTrailTextureId",
+	"src": "turret/ricochet/m3/ricochet_shot_trail.png?7"
+	},
+	{
+	"name": "vulcan_fireAcrossTexture",
+	"src": "turret/vulcan/vulcan_fireAcrossTexture.png?7"
+	},
+	{
+	"name": "vulcan_fireAlongTexture",
+	"src": "turret/vulcan/vulcan_fireAlongTexture.png?7"
+	},
+	{
+	"name": "vulcan_dustTexture",
+	"src": "turret/vulcan/vulcan_dustTexture.png?7"
+	},
+	{
+	"name": "vulcan_smokeTexture",
+	"src": "turret/vulcan/vulcan_smokeTexture.png?7"
+	},
+	{
+	"name": "vulcan_sparklesTexture",
+	"src": "turret/vulcan/vulcan_sparklesTexture.png?7"
+	},
+	{
+	"name": "vulcan_tankSparklesTexture",
+	"src": "turret/vulcan/vulcan_tankSparklesTexture.png?7"
+	},
+	{
+	"name": "vulcan_tracerTexture",
+	"src": "turret/vulcan/vulcan_tracerTexture.jpg?7"
+	},
+	{
+	"name": "vulcan_crumbsTexture",
+	"src": "turret/vulcan/vulcan_crumbsTexture.jpg?7"
+	},
+	{
+	"name": "vulcan_m0_preview",
+	"src": "turret/vulcan/m0/preview.png?7"
+	},
+	{
+	"name": "vulcan_m0_lightmap",
+	"src": "turret/vulcan/m0/lightmap.jpg?7"
+	},
+	{
+	"name": "vulcan_m0_details",
+	"src": "turret/vulcan/m0/details.png?7"
+	},
+	{
+	"name": "vulcan_m1_preview",
+	"src": "turret/vulcan/m1/preview.png?7"
+	},
+	{
+	"name": "vulcan_m1_lightmap",
+	"src": "turret/vulcan/m1/lightmap.jpg?7"
+	},
+	{
+	"name": "vulcan_m1_details",
+	"src": "turret/vulcan/m1/details.png?7"
+	},
+	{
+	"name": "vulcan_m2_preview",
+	"src": "turret/vulcan/m2/preview.png?7"
+	},
+	{
+	"name": "vulcan_m2_lightmap",
+	"src": "turret/vulcan/m2/lightmap.jpg?7"
+	},
+	{
+	"name": "vulcan_m2_details",
+	"src": "turret/vulcan/m2/details.png?7"
+	},
+	{
+	"name": "vulcan_m3_preview",
+	"src": "turret/vulcan/m3/preview.png?7"
+	},
+	{
+	"name": "vulcan_m3_lightmap",
+	"src": "turret/vulcan/m3/lightmap.jpg?7"
+	},
+	{
+	"name": "vulcan_m3_details",
+	"src": "turret/vulcan/m3/details.png?7"
+	},
+	{
+	"name": "health_m0_preview",
+	"src": "inventory/health/inventory_health.png?7"
+	},
+	{
+	"name": "armor_m0_preview",
+	"src": "inventory/armor/inventory_armor.png?7"
+	},
+	{
+	"name": "double_damage_m0_preview",
+	"src": "inventory/damage/inventory_badaboom.png?7"
+	}
+	,
+	{
+	"name": "n2o_m0_preview",
+	"src": "inventory/n2o/inventory_nitro.png?7"
+	},
+	{
+	"name": "mine_m0_preview",
+	"src": "inventory/mine/inventory_mine.png?7"
+	},
+	{
+	"name": "blueMineTexture",
+	"src": "mines/mine_blue.jpg?7"
+	},
+	{
+	"name": "enemyMineTexture",
+	"src": "mines/mine_yellow.jpg?7"
+	},
+	{
+	"name": "friendlyMineTexture_mine",
+	"src": "mines/mine_green.jpg?7"
+	},
+	{
+	"name": "idleExplosionTexture_mine",
+	"src": "mines/idle_explosion.png?7"
+	},
+	{
+	"name": "mainExplosionTextureId_mine",
+	"src": "mines/main_explosion.png?7"
+	},
+	{
+            "name": "up_score_m0_preview",
+            "src": "effects/gold_score.png?7"
+        },
+		{
+            "name": "up_score_week_m0_preview",
+            "src": "effects/bronze_score.png?7"
+        },
+	{
+	"name": "redMineTexture_mine",
+	"src": "mines/mine_red.jpg?7"
+	},
+	{
+		"name": "tank3_m2_m0_preview",
+		"src": "kits/tank3_m2.png?7"
+	  },
+	  {
+		"name": "tank3_m3_m0_preview",
+		"src": "kits/tank3_m3.png?7"
+	  },
+	  {
+		"name": "tank2_m2_m0_preview",
+		"src": "kits/tank2_m2.png?7"
+	  },
+	  {
+		"name": "tank2_m3_m0_preview",
+		"src": "kits/tank2_m3.png?7"
+	  },
+	  {
+		"name": "nara_100_m0_preview",
+		"src": "kits/nara_100.png?7"
+	  },
+	  {
+		"name": "tank1_m2_m0_preview",
+		"src": "kits/tank1_m2.png?7"
+	  },
+	  {
+		"name": "tank1_m3_m0_preview",
+		"src": "kits/tank1_m3.png?7"
+	  }
+	]
+}

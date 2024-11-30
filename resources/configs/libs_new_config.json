@@ -1,0 +1,68 @@
+{
+    "proplibs_new": [
+        {
+            "library": "Bush.tara",
+            "version": 1
+        },
+        {
+            "library": "CityBuilds.tara",
+            "version": 1
+        },
+        {
+            "library": "Cliffs.tara",
+            "version": 1
+        },
+        {
+            "library": "ConcreteTiles.tara",
+            "version": 1
+        },
+        {
+            "library": "GrassTiles.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu1.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu10.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu14.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu2.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu3.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu4.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu5.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu8.tara",
+            "version": 1
+        },
+        {
+            "library": "NuBu9.tara",
+            "version": 1
+        },
+        {
+            "library": "Promotion.tara",
+            "version": 1
+        },
+        {
+            "library": "SlopesRises.tara",
+            "version": 1
+        }
+    ]
+}

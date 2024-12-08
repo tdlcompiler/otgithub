@@ -240,6 +240,10 @@
 		"src": "hull/hunter/m3/hull.3ds?1"
 	  },
 	  {
+		"name": "hunterxt_m0",
+		"src": "hull/hunter/m3/hull.3ds?1"
+	  },
+	  {
 		"name": "titan_m0",
 		"src": "hull/titan/m0/hull.3ds?1"
 	  },

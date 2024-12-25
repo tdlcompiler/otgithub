@@ -1006,6 +1006,14 @@
 		"src": "colormaps/anubis/preview.png?7"
 	 },	
 	 {
+		"name": "eternity_m0",
+		"src": "colormaps/eternity/image.jpg?1"
+	 },
+	 {
+		"name": "eternity_m0_preview",
+		"src": "colormaps/eternity/preview.png?1"
+	 },	
+	 {
 		"name": "arab_m0",
 		"src": "colormaps/arab/image.jpg?7"
 	 },

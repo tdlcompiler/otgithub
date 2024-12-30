@@ -3832,6 +3832,10 @@
 	  {
 		"name": "tank1_m3_m0_preview",
 		"src": "kits/tank1_m3.png?7"
-	  }
+	  },
+	  {
+		"name": "2025_preview",
+		"src": "news/2025_preview.png?1"
+	 }
 	]
 }

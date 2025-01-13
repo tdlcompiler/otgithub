@@ -38,6 +38,10 @@
         "src": "fon.mp3?v1"	
 	  },
 	  {
+		"name": "space_ambient_sound",
+        "src": "space_ambient.mp3?v1"	
+	  },
+	  {
 	    "name": "gold", 
 	    "src": "gold.mp3?1"
 	  },

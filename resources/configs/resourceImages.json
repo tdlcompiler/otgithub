@@ -7,7 +7,7 @@
 	 },
 	 {
 		"name": "skybox_lun",
-		"src": "skyboxes/skybox_lun.jpg?7"
+		"src": "skyboxes/skybox_lun.jpg?8"
 	 },
 	 {
 		"name": "skybox_desert",
@@ -2185,6 +2185,10 @@
 	"src": "maps/map_silence_3_preview.jpg?1"
 	}
 	,
+	{
+	"name": "map_silence_space_preview",
+	"src": "maps/map_silence_space_preview.jpg?1"
+	},
 	{
 	"name": "map_abyss_preview",
 	"src": "maps/map_abyss_preview.jpg?1"

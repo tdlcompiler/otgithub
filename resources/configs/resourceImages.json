@@ -3850,6 +3850,10 @@
 	  {
 		"name": "2025_preview",
 		"src": "news/2025_preview.png?1"
-	 }
+	  },
+	  {
+		"name": "space_preview",
+		"src": "news/space_preview.png?1"
+	  }
 	]
 }

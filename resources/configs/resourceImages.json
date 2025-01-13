@@ -2460,6 +2460,11 @@
 	}
 	,
 	{
+	"name": "map_madness_space_preview",
+	"src": "maps/map_madness_space_preview.jpg?1"
+	}
+	,
+	{
 	"name": "map_magadan_preview",
 	"src": "maps/map_magadan_preview.jpg?1"
 	}

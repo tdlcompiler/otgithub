@@ -3821,19 +3821,19 @@
 	},
 	{
 		"name": "tank3_m2_m0_preview",
-		"src": "kits/tank3_m2.png?7"
+		"src": "kits/default.png?8"
 	  },
 	  {
 		"name": "tank3_m3_m0_preview",
-		"src": "kits/tank3_m3.png?7"
+		"src": "kits/default.png?8"
 	  },
 	  {
 		"name": "tank2_m2_m0_preview",
-		"src": "kits/tank2_m2.png?7"
+		"src": "kits/default.png?8"
 	  },
 	  {
 		"name": "tank2_m3_m0_preview",
-		"src": "kits/tank2_m3.png?7"
+		"src": "kits/default.png?8"
 	  },
 	  {
 		"name": "nara_100_m0_preview",
@@ -3841,11 +3841,11 @@
 	  },
 	  {
 		"name": "tank1_m2_m0_preview",
-		"src": "kits/tank1_m2.png?7"
+		"src": "kits/default.png?8"
 	  },
 	  {
 		"name": "tank1_m3_m0_preview",
-		"src": "kits/tank1_m3.png?7"
+		"src": "kits/default.png?8"
 	  },
 	  {
 		"name": "2025_preview",

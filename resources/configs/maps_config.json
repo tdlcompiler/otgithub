@@ -923,6 +923,18 @@
         {
             "map": "map_zone_winter.xml",
             "version": 1
+        },
+		{
+            "map": "map_vavilon.xml",
+            "version": 1
+        },
+		{
+            "map": "map_tpp.xml",
+            "version": 1
+        },
+		{
+            "map": "map_port.xml",
+            "version": 1
         }
     ]
 }

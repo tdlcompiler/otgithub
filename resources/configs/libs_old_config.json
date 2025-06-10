@@ -215,6 +215,18 @@
         {
             "library": "Zamin.tara",
             "version": 1
+        },
+		{
+            "library": "LandscapeOld.tara",
+            "version": 1
+        },
+		{
+            "library": "Landv1Old.tara",
+            "version": 1
+        },
+		{
+            "library": "Elementsv1Old.tara",
+            "version": 1
         }
     ]
 }

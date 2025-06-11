@@ -3134,15 +3134,15 @@
 	},	
 	{
 	"name": "map_tpp_preview",
-	"src": "maps/map_tpp_preview.jpg?1"
+	"src": "maps/map_tpp_preview.png?1"
 	},
 	{
 	"name": "map_port_preview",
-	"src": "maps/map_port_preview.jpg?1"
+	"src": "maps/map_port_preview.png?1"
 	},
 	{
 	"name": "map_vavilon_preview",
-	"src": "maps/map_vavilon_preview.jpg?1"
+	"src": "maps/map_vavilon_preview.png?1"
 	},
 	{
 	"name": "railgun_m0_shot",

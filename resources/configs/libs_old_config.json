@@ -2,11 +2,11 @@
     "proplibs_old": [
         {
             "library": "Billboard.tara",
-            "version": 1
+            "version": 2
         },
         {
             "library": "BillboardWinter.tara",
-            "version": 1
+            "version": 2
         },
         {
             "library": "Buildingsv1.tara",
@@ -226,7 +226,7 @@
         },
 		{
             "library": "Elementsv1Old.tara",
-            "version": 1
+            "version": 2
         }
     ]
 }

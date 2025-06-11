@@ -227,6 +227,10 @@
 		{
             "library": "Elementsv1Old.tara",
             "version": 2
+        },
+		{
+            "library": "Buildsv1Old.tara",
+            "version": 2
         }
     ]
 }

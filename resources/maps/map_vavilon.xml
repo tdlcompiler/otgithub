@@ -29447,17 +29447,6 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Landscape Old" group-name="Concrete&amp;Pavement Tiles" name="Flip Pave">
-      <rotation>
-        <z>0.000000</z>
-      </rotation>
-      <texture-name>Fliptile</texture-name>
-      <position>
-        <x>250.000</x>
-        <y>250.000</y>
-        <z>600.000</z>
-      </position>
-    </prop>
     <prop library-name="Landscape Old" group-name="Slopes Rises" name="Slope 2">
       <rotation>
         <z>-21.991149</z>
@@ -128566,20 +128555,6 @@
         <x>0.000000</x>
         <y>0.000000</y>
         <z>-0.000000</z>
-      </rotation>
-    </collision-plane>
-    <collision-plane id="0">
-      <width>500.000</width>
-      <length>500.000</length>
-      <position>
-        <x>250.000</x>
-        <y>250.000</y>
-        <z>600.000</z>
-      </position>
-      <rotation>
-        <x>3.141593</x>
-        <y>0.000000</y>
-        <z>0.000000</z>
       </rotation>
     </collision-plane>
     <collision-plane id="0">

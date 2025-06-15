@@ -926,15 +926,15 @@
         },
 		{
             "map": "map_vavilon.xml",
-            "version": 5
+            "version": 6
         },
 		{
             "map": "map_tpp.xml",
-            "version": 1
+            "version": 2
         },
 		{
             "map": "map_port.xml",
-            "version": 1
+            "version": 2
         }
     ]
 }

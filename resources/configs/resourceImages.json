@@ -1394,12 +1394,12 @@
 		"src": "colormaps/irbis/image.jpg?7"
 	 },	
 	 {
-		"name": "panin_m0",
-		"src": "colormaps/panin/image.jpg?7"
+		"name": "terrorist_m0",
+		"src": "colormaps/terrorist/image.jpg?8"
 	 },
 	 {
-		"name": "panin_m0_preview",
-		"src": "colormaps/panin/preview.png?7"
+		"name": "terrorist_m0_preview",
+		"src": "colormaps/terrorist/preview.png?8"
 	 },
 	 {
         "name": "cryo_m0_preview",

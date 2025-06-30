@@ -3870,6 +3870,10 @@
 	  {
 		"name": "russia_day_preview",
 		"src": "news/russia_day_preview.png?1"
+	  },
+	  {
+		"name": "warning_preview",
+		"src": "news/warning_preview.png?1"
 	  }
 	]
 }

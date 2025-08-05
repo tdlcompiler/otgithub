@@ -3765,6 +3765,42 @@
       "src": "kits/default.png?8"
     },
     {
+      "name": "smokykit_m2_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "thunderkit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "smokykit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "isidakit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "firekit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "frezeekit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "vulcankit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "ricochetkit_m3_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
+      "name": "thunderkit_m2_m0_preview",
+      "src": "kits/default.png?8"
+    },
+    {
       "name": "2025_preview",
       "src": "news/2025_preview.png?1"
     },

@@ -10,6 +10,30 @@
       "src": "skyboxes/skybox_lun.jpg?11"
     },
     {
+      "name": "skybox_lun_front",
+      "src": "skyboxes/skybox_lun/front.jpg?1"
+    },
+    {
+      "name": "skybox_lun_back",
+      "src": "skyboxes/skybox_lun/back.jpg?1"
+    },
+    {
+      "name": "skybox_lun_left",
+      "src": "skyboxes/skybox_lun/left.jpg?1"
+    },
+    {
+      "name": "skybox_lun_right",
+      "src": "skyboxes/skybox_lun/right.jpg?1"
+    },
+    {
+      "name": "skybox_lun_top",
+      "src": "skyboxes/skybox_lun/top.jpg?1"
+    },
+    {
+      "name": "skybox_lun_bottom",
+      "src": "skyboxes/skybox_lun/bottom.jpg?1"
+    },
+    {
       "name": "skybox_desert",
       "src": "skyboxes/skybox_desert.jpg?7"
     },

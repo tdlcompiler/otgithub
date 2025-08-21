@@ -34,36 +34,252 @@
       "src": "skyboxes/skybox_lun/bottom.png?1"
     },
     {
+      "name": "skybox_default_front",
+      "src": "skyboxes/skybox_default/front.png?1"
+    },
+    {
+      "name": "skybox_default_back",
+      "src": "skyboxes/skybox_default/back.png?1"
+    },
+    {
+      "name": "skybox_default_left",
+      "src": "skyboxes/skybox_default/left.png?1"
+    },
+    {
+      "name": "skybox_default_right",
+      "src": "skyboxes/skybox_default/right.png?1"
+    },
+    {
+      "name": "skybox_default_top",
+      "src": "skyboxes/skybox_default/top.png?1"
+    },
+    {
+      "name": "skybox_default_bottom",
+      "src": "skyboxes/skybox_default/bottom.png?1"
+    },
+    {
       "name": "skybox_desert",
       "src": "skyboxes/skybox_desert.jpg?7"
+    },
+    {
+      "name": "skybox_desert_front",
+      "src": "skyboxes/skybox_desert/front.png?1"
+    },
+    {
+      "name": "skybox_desert_back",
+      "src": "skyboxes/skybox_desert/back.png?1"
+    },
+    {
+      "name": "skybox_desert_left",
+      "src": "skyboxes/skybox_desert/left.png?1"
+    },
+    {
+      "name": "skybox_desert_right",
+      "src": "skyboxes/skybox_desert/right.png?1"
+    },
+    {
+      "name": "skybox_desert_top",
+      "src": "skyboxes/skybox_desert/top.png?1"
+    },
+    {
+      "name": "skybox_desert_bottom",
+      "src": "skyboxes/skybox_desert/bottom.png?1"
     },
     {
       "name": "skybox_iran",
       "src": "skyboxes/skybox_iran.jpg?7"
     },
     {
+      "name": "skybox_iran_front",
+      "src": "skyboxes/skybox_iran/front.png?1"
+    },
+    {
+      "name": "skybox_iran_back",
+      "src": "skyboxes/skybox_iran/back.png?1"
+    },
+    {
+      "name": "skybox_iran_left",
+      "src": "skyboxes/skybox_iran/left.png?1"
+    },
+    {
+      "name": "skybox_iran_right",
+      "src": "skyboxes/skybox_iran/right.png?1"
+    },
+    {
+      "name": "skybox_iran_top",
+      "src": "skyboxes/skybox_iran/top.png?1"
+    },
+    {
+      "name": "skybox_iran_bottom",
+      "src": "skyboxes/skybox_iran/bottom.png?1"
+    },
+    {
       "name": "skybox_halloween",
       "src": "skyboxes/skybox_halloween.jpg?7"
+    },
+    {
+      "name": "skybox_halloween_front",
+      "src": "skyboxes/skybox_halloween/front.png?1"
+    },
+    {
+      "name": "skybox_halloween_back",
+      "src": "skyboxes/skybox_halloween/back.png?1"
+    },
+    {
+      "name": "skybox_halloween_left",
+      "src": "skyboxes/skybox_halloween/left.png?1"
+    },
+    {
+      "name": "skybox_halloween_right",
+      "src": "skyboxes/skybox_halloween/right.png?1"
+    },
+    {
+      "name": "skybox_halloween_top",
+      "src": "skyboxes/skybox_halloween/top.png?1"
+    },
+    {
+      "name": "skybox_halloween_bottom",
+      "src": "skyboxes/skybox_halloween/bottom.png?1"
     },
     {
       "name": "skybox_winter",
       "src": "skyboxes/skybox_winter.jpg?7"
     },
     {
+      "name": "skybox_winter_front",
+      "src": "skyboxes/skybox_winter/front.png?1"
+    },
+    {
+      "name": "skybox_winter_back",
+      "src": "skyboxes/skybox_winter/back.png?1"
+    },
+    {
+      "name": "skybox_winter_left",
+      "src": "skyboxes/skybox_winter/left.png?1"
+    },
+    {
+      "name": "skybox_winter_right",
+      "src": "skyboxes/skybox_winter/right.png?1"
+    },
+    {
+      "name": "skybox_winter_top",
+      "src": "skyboxes/skybox_winter/top.png?1"
+    },
+    {
+      "name": "skybox_winter_bottom",
+      "src": "skyboxes/skybox_winter/bottom.png?1"
+    },
+    {
       "name": "skybox_plato",
       "src": "skyboxes/skybox_plato.jpg?7"
+    },
+    {
+      "name": "skybox_plato_front",
+      "src": "skyboxes/skybox_plato/front.png?1"
+    },
+    {
+      "name": "skybox_plato_back",
+      "src": "skyboxes/skybox_plato/back.png?1"
+    },
+    {
+      "name": "skybox_plato_left",
+      "src": "skyboxes/skybox_plato/left.png?1"
+    },
+    {
+      "name": "skybox_plato_right",
+      "src": "skyboxes/skybox_plato/right.png?1"
+    },
+    {
+      "name": "skybox_plato_top",
+      "src": "skyboxes/skybox_plato/top.png?1"
+    },
+    {
+      "name": "skybox_plato_bottom",
+      "src": "skyboxes/skybox_plato/bottom.png?1"
     },
     {
       "name": "skybox_new_year",
       "src": "skyboxes/skybox_new_year.jpg?7"
     },
     {
+      "name": "skybox_new_year_front",
+      "src": "skyboxes/skybox_new_year/front.png?1"
+    },
+    {
+      "name": "skybox_new_year_back",
+      "src": "skyboxes/skybox_new_year/back.png?1"
+    },
+    {
+      "name": "skybox_new_year_left",
+      "src": "skyboxes/skybox_new_year/left.png?1"
+    },
+    {
+      "name": "skybox_new_year_right",
+      "src": "skyboxes/skybox_new_year/right.png?1"
+    },
+    {
+      "name": "skybox_new_year_top",
+      "src": "skyboxes/skybox_new_year/top.png?1"
+    },
+    {
+      "name": "skybox_new_year_bottom",
+      "src": "skyboxes/skybox_new_year/bottom.png?1"
+    },
+    {
       "name": "skybox_winter_evening",
       "src": "skyboxes/skybox_winter_evening.jpg?7"
     },
     {
+      "name": "skybox_winter_evening_front",
+      "src": "skyboxes/skybox_winter_evening/front.png?1"
+    },
+    {
+      "name": "skybox_winter_evening_back",
+      "src": "skyboxes/skybox_winter_evening/back.png?1"
+    },
+    {
+      "name": "skybox_winter_evening_left",
+      "src": "skyboxes/skybox_winter_evening/left.png?1"
+    },
+    {
+      "name": "skybox_winter_evening_right",
+      "src": "skyboxes/skybox_winter_evening/right.png?1"
+    },
+    {
+      "name": "skybox_winter_evening_top",
+      "src": "skyboxes/skybox_winter_evening/top.png?1"
+    },
+    {
+      "name": "skybox_winter_evening_bottom",
+      "src": "skyboxes/skybox_winter_evening/bottom.png?1"
+    },
+    {
       "name": "skybox_evening",
       "src": "skyboxes/skybox_evening.jpg?7"
+    },
+    {
+      "name": "skybox_evening_front",
+      "src": "skyboxes/skybox_evening/front.png?1"
+    },
+    {
+      "name": "skybox_evening_back",
+      "src": "skyboxes/skybox_evening/back.png?1"
+    },
+    {
+      "name": "skybox_evening_left",
+      "src": "skyboxes/skybox_evening/left.png?1"
+    },
+    {
+      "name": "skybox_evening_right",
+      "src": "skyboxes/skybox_evening/right.png?1"
+    },
+    {
+      "name": "skybox_evening_top",
+      "src": "skyboxes/skybox_evening/top.png?1"
+    },
+    {
+      "name": "skybox_evening_bottom",
+      "src": "skyboxes/skybox_evening/bottom.png?1"
     },
     {
       "name": "flagBlueModel_img",

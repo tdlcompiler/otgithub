@@ -2,14 +2,6 @@
   "id": "IMAGES",
   "items": [
     {
-      "name": "skybox_default",
-      "src": "skyboxes/skybox_default.jpg?7"
-    },
-    {
-      "name": "skybox_lun",
-      "src": "skyboxes/skybox_lun.jpg?11"
-    },
-    {
       "name": "skybox_lun_front",
       "src": "skyboxes/skybox_lun/front.png?1"
     },
@@ -58,10 +50,6 @@
       "src": "skyboxes/skybox_default/bottom.png?1"
     },
     {
-      "name": "skybox_desert",
-      "src": "skyboxes/skybox_desert.jpg?7"
-    },
-    {
       "name": "skybox_desert_front",
       "src": "skyboxes/skybox_desert/front.png?1"
     },
@@ -84,10 +72,6 @@
     {
       "name": "skybox_desert_bottom",
       "src": "skyboxes/skybox_desert/bottom.png?1"
-    },
-    {
-      "name": "skybox_iran",
-      "src": "skyboxes/skybox_iran.jpg?7"
     },
     {
       "name": "skybox_iran_front",
@@ -114,10 +98,6 @@
       "src": "skyboxes/skybox_iran/bottom.png?1"
     },
     {
-      "name": "skybox_halloween",
-      "src": "skyboxes/skybox_halloween.jpg?7"
-    },
-    {
       "name": "skybox_halloween_front",
       "src": "skyboxes/skybox_halloween/front.png?1"
     },
@@ -140,10 +120,6 @@
     {
       "name": "skybox_halloween_bottom",
       "src": "skyboxes/skybox_halloween/bottom.png?1"
-    },
-    {
-      "name": "skybox_winter",
-      "src": "skyboxes/skybox_winter.jpg?7"
     },
     {
       "name": "skybox_winter_front",
@@ -170,10 +146,6 @@
       "src": "skyboxes/skybox_winter/bottom.png?1"
     },
     {
-      "name": "skybox_plato",
-      "src": "skyboxes/skybox_plato.jpg?7"
-    },
-    {
       "name": "skybox_plato_front",
       "src": "skyboxes/skybox_plato/front.png?1"
     },
@@ -196,10 +168,6 @@
     {
       "name": "skybox_plato_bottom",
       "src": "skyboxes/skybox_plato/bottom.png?1"
-    },
-    {
-      "name": "skybox_new_year",
-      "src": "skyboxes/skybox_new_year.jpg?7"
     },
     {
       "name": "skybox_new_year_front",
@@ -226,10 +194,6 @@
       "src": "skyboxes/skybox_new_year/bottom.png?1"
     },
     {
-      "name": "skybox_winter_evening",
-      "src": "skyboxes/skybox_winter_evening.jpg?7"
-    },
-    {
       "name": "skybox_winter_evening_front",
       "src": "skyboxes/skybox_winter_evening/front.png?1"
     },
@@ -252,10 +216,6 @@
     {
       "name": "skybox_winter_evening_bottom",
       "src": "skyboxes/skybox_winter_evening/bottom.png?1"
-    },
-    {
-      "name": "skybox_evening",
-      "src": "skyboxes/skybox_evening.jpg?7"
     },
     {
       "name": "skybox_evening_front",

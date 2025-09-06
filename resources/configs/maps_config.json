@@ -254,7 +254,7 @@
         },
         {
             "map": "map_dusseldorf.xml",
-            "version": 1
+            "version": 2
         },
         {
             "map": "map_dusseldorf_new.xml",
@@ -262,7 +262,7 @@
         },
         {
             "map": "map_dusseldorf_winter.xml",
-            "version": 1
+            "version": 2
         },
         {
             "map": "map_dust.xml",

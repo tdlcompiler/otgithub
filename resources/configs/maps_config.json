@@ -910,11 +910,11 @@
         },
         {
             "map": "map_wolfenstein.xml",
-            "version": 3
+            "version": 4
         },
         {
             "map": "map_wolfenstein_winter.xml",
-            "version": 5
+            "version": 6
         },
         {
             "map": "map_zone.xml",

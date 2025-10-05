@@ -3361,6 +3361,10 @@
       "src": "turret/flamethrower/m3/fireball.png?7"
     },
     {
+      "name": "flamethrower_plane",
+      "src": "turret/flamethrower/shot.png?7"
+    },
+    {
       "name": "twins_m0_explosionTexture",
       "src": "turret/twins/m0/explosion.png?7"
     },

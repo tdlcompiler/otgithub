@@ -2,939 +2,939 @@
     "maps": [
         {
             "map": "2018_S_Novym_Godom.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_2018_S_Novym_Godom.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_2019.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_2042.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_2042_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_2042_winter_review.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_abyss.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_abyss_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_arena.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_arena_2.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_arena_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_astrella.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_atra.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_atra_2.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_atra_2_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_atra_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_babylon.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_babylon_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_barda.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_barda_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_bastion.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_bastion_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_berlin.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_berlin_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_bobruisk.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_bobruisk_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_boombox.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_boombox_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_brest.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_brest_2.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_brest_2_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_brest_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_bridges.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_bridges_winter.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_bryancev.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_camp.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_camp_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_canyon.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_canyon_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_carousel.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_cave.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_chornobyl.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_chornobyl_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_combe.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_combe_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_courage.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_courage_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_cross.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_cross_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_cybersport.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_cybersport_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_deathtrack.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_deathtrack_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_deck9.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_deck9_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_desert.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_desert_halloween.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_desert_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_dualiti.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_dualiti_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_duel.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_duel_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_dusseldorf.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_dusseldorf_new.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_dusseldorf_winter.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_dust.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_esplanade.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_esplanade_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fabric.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_farm.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_farm_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_flying_test.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_forest.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_forest_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknox.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknoxII.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknoxII_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknox_II.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknox_III.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknox_III_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknox_II_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fortknox_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fort_knox_III.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_fort_knox_III_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_garder.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_garder_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_gravity.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_gravity_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_gubakha.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_gubakha_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_halloween_2020.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_hangars.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_hangars_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_highland.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_highland_II.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_highland_II_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_highland_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_highway.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_highway_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_hill.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_hill_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_industrial_zone.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_industrial_zone_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_iran.xml",
-            "version": 6
+            "version": 10
         },
         {
             "map": "map_iran_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_island.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_island_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_koenigsberg.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_kolhoz.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_kolhoz_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_kungur.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_kungur_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_legacy.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_losttemple.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_losttemple_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_madness.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_madness_space.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_madness_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_magadan.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_magadan_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_magistral.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_magistral_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_massacre.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_massacre_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_megaprops1.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_molotov.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_molotov_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_montecarlo.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_montecarlo_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_newyear2021.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_new_kungur.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_new_sandbox.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_new_tribute.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_noise.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_noise_space.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_noise_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_novel.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_novel_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_ny.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_ny.xml.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_ny_2025.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_opposition.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_opposition_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_osa.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_osa_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_pac.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_parma.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_parma_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_pass.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_pass_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_pingpong.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_pingpong_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_polygon.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_polygon_halloween.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_polygon_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_polygon_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_polygon_winter2.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_position.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_position_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_raven.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_rayon.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_rayon_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_redalert.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_redalert_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_rift.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_rift_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_ring.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_ring_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_rio.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_rio_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_sandal.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_sandal_halloween.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_sandal_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_sandbox.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_sandbox_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_sandbox_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_scope.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_scope_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_serpuhov.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_serpuhov_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_shadow.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_shortbridge.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_shortbridge_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_siege.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_siege_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2 _winter_evening.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2_evening.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2_winter _evening.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_2_winter_evening.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_3.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_lun.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_space.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_silence_space_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_silence_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_skylark.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_skylark_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_solikamsk.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_solikamsk_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_stadium.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_stadium_night.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_stadium_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_station.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_station_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_subway.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_subway_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_test.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_testing_ground_1.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_test_k.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_test_new.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_train_station.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_train_station_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_tribute.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_tribute_winter.xml",
-            "version": 2
+            "version": 10
         },
         {
             "map": "map_u.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_u_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_valley.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_valley_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_vokzal.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_vokzal_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_wave.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_wave_winter.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_wolfenstein.xml",
-            "version": 4
+            "version": 10
         },
         {
             "map": "map_wolfenstein_winter.xml",
-            "version": 6
+            "version": 10
         },
         {
             "map": "map_zone.xml",
-            "version": 1
+            "version": 10
         },
         {
             "map": "map_zone_winter.xml",
-            "version": 1
+            "version": 10
         },
 		{
             "map": "map_vavilon.xml",
-            "version": 6
+            "version": 10
         },
 		{
             "map": "map_tpp.xml",
-            "version": 3
+            "version": 10
         },
 		{
             "map": "map_port.xml",
-            "version": 2
+            "version": 10
         }
     ]
 }

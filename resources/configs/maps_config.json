@@ -134,7 +134,7 @@
         },
         {
             "map": "map_bridges.xml",
-            "version": 2
+            "version": 1
         },
         {
             "map": "map_bridges_winter.xml",

@@ -2761,6 +2761,10 @@
       "src": "maps/map_tankball_preview.jpg?1"
     },
     {
+      "name": "map_testing_ground_1",
+      "src": "maps/map_testing_ground_1.jpg?1"
+    },
+    {
       "name": "map_test_new_preview",
       "src": "maps/map_test_new_preview.jpg?1"
     },

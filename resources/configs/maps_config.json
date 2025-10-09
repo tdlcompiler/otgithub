@@ -422,6 +422,14 @@
         },
         {
             "map": "map_iran_winter.xml",
+            "version": 2
+        },
+		{
+            "map": "map_iran_night.xml",
+            "version": 1
+        },
+        {
+            "map": "map_iran_winter_night.xml",
             "version": 1
         },
         {

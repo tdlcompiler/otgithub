@@ -2572,6 +2572,18 @@
       "name": "map_iran_preview",
       "src": "maps/map_iran_preview.jpg?1"
     },
+	{
+      "name": "map_iran_night_preview",
+      "src": "maps/map_iran_night_preview.jpg?1"
+    },
+	{
+      "name": "map_iran_winter_preview",
+      "src": "maps/map_iran_winter_preview.jpg?1"
+    },
+	{
+      "name": "map_iran_winter_night_preview",
+      "src": "maps/map_iran_winter_night_preview.jpg?1"
+    },
     {
       "name": "map_island_preview",
       "src": "maps/map_island_preview.jpg?1"

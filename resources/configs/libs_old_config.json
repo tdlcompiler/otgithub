@@ -73,12 +73,12 @@
             "version": 1
         },
         {
-            "library": "Kahgel.tara",
-            "version": 1
+            "library": "kahgel.tara",
+            "version": 2
         },
         {
-            "library": "Kariz.tara",
-            "version": 1
+            "library": "kariz.tara",
+            "version": 2
         },
         {
             "library": "Landscape.tara",
@@ -209,12 +209,12 @@
             "version": 1
         },
         {
-            "library": "Yonje.tara",
-            "version": 1
+            "library": "yonje.tara",
+            "version": 2
         },
         {
-            "library": "Zamin.tara",
-            "version": 1
+            "library": "zamin.tara",
+            "version": 2
         },
 		{
             "library": "LandscapeOld.tara",

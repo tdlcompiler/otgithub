@@ -134,11 +134,11 @@
         },
         {
             "map": "map_bridges.xml",
-            "version": 1
+            "version": 2
         },
         {
             "map": "map_bridges_winter.xml",
-            "version": 1
+            "version": 2
         },
         {
             "map": "map_bryancev.xml",
@@ -910,11 +910,11 @@
         },
         {
             "map": "map_wolfenstein.xml",
-            "version": 4
+            "version": 5
         },
         {
             "map": "map_wolfenstein_winter.xml",
-            "version": 6
+            "version": 7
         },
         {
             "map": "map_zone.xml",

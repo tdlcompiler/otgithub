@@ -97,6 +97,78 @@
       "name": "skybox_iran_bottom",
       "src": "skyboxes/skybox_iran/bottom.png?1"
     },
+	{
+      "name": "skybox_iran_night_front",
+      "src": "skyboxes/skybox_iran_night/front.jpg?1"
+    },
+    {
+      "name": "skybox_iran_night_back",
+      "src": "skyboxes/skybox_iran_night/back.jpg?1"
+    },
+    {
+      "name": "skybox_iran_night_left",
+      "src": "skyboxes/skybox_iran_night/left.jpg?1"
+    },
+    {
+      "name": "skybox_iran_night_right",
+      "src": "skyboxes/skybox_iran_night/right.jpg?1"
+    },
+    {
+      "name": "skybox_iran_night_top",
+      "src": "skyboxes/skybox_iran_night/top.jpg?1"
+    },
+    {
+      "name": "skybox_iran_night_bottom",
+      "src": "skyboxes/skybox_iran_night/bottom.jpg?1"
+    },
+	{
+      "name": "skybox_iran_winter_front",
+      "src": "skyboxes/skybox_iran_winter/front.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_back",
+      "src": "skyboxes/skybox_iran_winter/back.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_left",
+      "src": "skyboxes/skybox_iran_winter/left.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_right",
+      "src": "skyboxes/skybox_iran_winter/right.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_top",
+      "src": "skyboxes/skybox_iran_winter/top.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_bottom",
+      "src": "skyboxes/skybox_iran_winter/bottom.jpg?1"
+    },
+	{
+      "name": "skybox_iran_winter_night_front",
+      "src": "skyboxes/skybox_iran_winter_night/front.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_night_back",
+      "src": "skyboxes/skybox_iran_winter_night/back.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_night_left",
+      "src": "skyboxes/skybox_iran_winter_night/left.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_night_right",
+      "src": "skyboxes/skybox_iran_winter_night/right.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_night_top",
+      "src": "skyboxes/skybox_iran_winter_night/top.jpg?1"
+    },
+    {
+      "name": "skybox_iran_winter_night_bottom",
+      "src": "skyboxes/skybox_iran_winter_night/bottom.jpg?1"
+    },
     {
       "name": "skybox_halloween_front",
       "src": "skyboxes/skybox_halloween/front.png?1"

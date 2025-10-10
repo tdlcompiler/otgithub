@@ -99,7 +99,7 @@
     },
 	{
       "name": "skybox_iran_night_front",
-      "src": "skyboxes/skybox_iran_night/front.jpg?1"
+      "src": "skyboxes/skybox_iran_night/front.jpg?2"
     },
     {
       "name": "skybox_iran_night_back",
@@ -111,7 +111,7 @@
     },
     {
       "name": "skybox_iran_night_right",
-      "src": "skyboxes/skybox_iran_night/right.jpg?1"
+      "src": "skyboxes/skybox_iran_night/right.jpg?2"
     },
     {
       "name": "skybox_iran_night_top",
@@ -123,7 +123,7 @@
     },
 	{
       "name": "skybox_iran_winter_front",
-      "src": "skyboxes/skybox_iran_winter/front.jpg?1"
+      "src": "skyboxes/skybox_iran_winter/front.jpg?2"
     },
     {
       "name": "skybox_iran_winter_back",
@@ -135,7 +135,7 @@
     },
     {
       "name": "skybox_iran_winter_right",
-      "src": "skyboxes/skybox_iran_winter/right.jpg?1"
+      "src": "skyboxes/skybox_iran_winter/right.jpg?2"
     },
     {
       "name": "skybox_iran_winter_top",
@@ -147,7 +147,7 @@
     },
 	{
       "name": "skybox_iran_winter_night_front",
-      "src": "skyboxes/skybox_iran_winter_night/front.jpg?1"
+      "src": "skyboxes/skybox_iran_winter_night/front.jpg?2"
     },
     {
       "name": "skybox_iran_winter_night_back",
@@ -159,7 +159,7 @@
     },
     {
       "name": "skybox_iran_winter_night_right",
-      "src": "skyboxes/skybox_iran_winter_night/right.jpg?1"
+      "src": "skyboxes/skybox_iran_winter_night/right.jpg?2"
     },
     {
       "name": "skybox_iran_winter_night_top",

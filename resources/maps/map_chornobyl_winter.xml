@@ -69306,6 +69306,56 @@
       <game-mode>ctf</game-mode>
       <game-mode>dom</game-mode>
     </bonus-region>
+	<bonus-region name="free-bonus" parachute="true">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <min>
+        <x>2250.000</x>
+        <y>-4750.000</y>
+        <z>3000.000</z>
+      </min>
+      <max>
+        <x>2750.000</x>
+        <y>-4250.000</y>
+        <z>3300.000</z>
+      </max>
+      <position>
+        <x>2250.000</x>
+        <y>-4750.000</y>
+        <z>3000.000</z>
+      </position>
+      <bonus-type>crystal_100</bonus-type>
+      <game-mode>dm</game-mode>
+      <game-mode>tdm</game-mode>
+      <game-mode>dom</game-mode>
+      <game-mode>ctf</game-mode>
+    </bonus-region>
+    <bonus-region name="free-bonus" parachute="true">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <min>
+        <x>2250.000</x>
+        <y>-1250.000</y>
+        <z>3000.000</z>
+      </min>
+      <max>
+        <x>2750.000</x>
+        <y>-750.000</y>
+        <z>3300.000</z>
+      </max>
+      <position>
+        <x>2250.000</x>
+        <y>-1250.000</y>
+        <z>3000.000</z>
+      </position>
+      <bonus-type>crystal_100</bonus-type>
+      <game-mode>dm</game-mode>
+      <game-mode>tdm</game-mode>
+      <game-mode>dom</game-mode>
+      <game-mode>ctf</game-mode>
+    </bonus-region>
   </bonus-regions>
   <ctf-flags>
     <flag-red>

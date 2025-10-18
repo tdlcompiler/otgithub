@@ -193,6 +193,54 @@
       "name": "skybox_halloween_bottom",
       "src": "skyboxes/skybox_halloween/bottom.png?1"
     },
+	{
+      "name": "skybox_mountains_night_front",
+      "src": "skyboxes/skybox_mountains_night/front.png?1"
+    },
+    {
+      "name": "skybox_mountains_night_back",
+      "src": "skyboxes/skybox_mountains_night/back.png?1"
+    },
+    {
+      "name": "skybox_mountains_night_left",
+      "src": "skyboxes/skybox_mountains_night/left.png?1"
+    },
+    {
+      "name": "skybox_mountains_night_right",
+      "src": "skyboxes/skybox_mountains_night/right.png?1"
+    },
+    {
+      "name": "skybox_mountains_night_top",
+      "src": "skyboxes/skybox_mountains_night/top.png?1"
+    },
+    {
+      "name": "skybox_mountains_night_bottom",
+      "src": "skyboxes/skybox_mountains_night/bottom.png?1"
+    },
+	{
+      "name": "skybox_hills_night",
+      "src": "skyboxes/skybox_hills_night/front.png?1"
+    },
+    {
+      "name": "skybox_hills_night",
+      "src": "skyboxes/skybox_hills_night/back.png?1"
+    },
+    {
+      "name": "skybox_hills_night",
+      "src": "skyboxes/skybox_hills_night/left.png?1"
+    },
+    {
+      "name": "skybox_hills_night",
+      "src": "skyboxes/skybox_hills_night/right.png?1"
+    },
+    {
+      "name": "skybox_hills_night",
+      "src": "skyboxes/skybox_hills_night/top.png?1"
+    },
+    {
+      "name": "skybox_hills_night",
+      "src": "skyboxes/skybox_hills_night/bottom.png?1"
+    },
     {
       "name": "skybox_winter_front",
       "src": "skyboxes/skybox_winter/front.png?1"

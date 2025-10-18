@@ -218,27 +218,27 @@
       "src": "skyboxes/skybox_mountains_night/bottom.jpg?2"
     },
 	{
-      "name": "skybox_hills_night",
+      "name": "skybox_hills_night_front",
       "src": "skyboxes/skybox_hills_night/front.jpg?2"
     },
     {
-      "name": "skybox_hills_night",
+      "name": "skybox_hills_night_back",
       "src": "skyboxes/skybox_hills_night/back.jpg?2"
     },
     {
-      "name": "skybox_hills_night",
+      "name": "skybox_hills_night_left",
       "src": "skyboxes/skybox_hills_night/left.jpg?2"
     },
     {
-      "name": "skybox_hills_night",
+      "name": "skybox_hills_night_right",
       "src": "skyboxes/skybox_hills_night/right.jpg?2"
     },
     {
-      "name": "skybox_hills_night",
+      "name": "skybox_hills_night_top",
       "src": "skyboxes/skybox_hills_night/top.jpg?2"
     },
     {
-      "name": "skybox_hills_night",
+      "name": "skybox_hills_night_bottom",
       "src": "skyboxes/skybox_hills_night/bottom.jpg?2"
     },
     {

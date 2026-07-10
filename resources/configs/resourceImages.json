@@ -649,6 +649,18 @@
       "name": "smoky_m3_preview",
       "src": "turret/smoky/m3/preview.png?7"
     },
+	{
+      "name": "smokyxt_m0_lightmap",
+      "src": "turret/smoky/xt/lightmap.jpg?7"
+    },
+    {
+      "name": "smokyxt_m0_details",
+      "src": "turret/smoky/xt/details.png?7"
+    },
+    {
+      "name": "smokyxt_m0_preview",
+      "src": "turret/smoky/xt/preview.png?7"
+    },
     {
       "name": "flamethrower_m0_lightmap",
       "src": "turret/flamethrower/m0/lightmap.jpg?7"
@@ -745,6 +757,18 @@
       "name": "isida_m3_preview",
       "src": "turret/isida/m3/preview.png?7"
     },
+	{
+      "name": "isidaxt_m0_lightmap",
+      "src": "turret/isida/xt/lightmap.jpg?7"
+    },
+    {
+      "name": "isidaxt_m0_details",
+      "src": "turret/isida/xt/details.png?7"
+    },
+    {
+      "name": "isidaxt_m0_preview",
+      "src": "turret/isida/xt/preview.png?7"
+    },
     {
       "name": "twins_m0_details",
       "src": "turret/twins/m0/details.png?7"
@@ -792,6 +816,18 @@
     {
       "name": "twins_m3_preview",
       "src": "turret/twins/m3/preview.png?7"
+    },
+	{
+      "name": "twinsxt_m0_lightmap",
+      "src": "turret/twins/xt/lightmap.jpg?7"
+    },
+    {
+      "name": "twinsxt_m0_details",
+      "src": "turret/twins/xt/details.png?7"
+    },
+    {
+      "name": "twinsxt_m0_preview",
+      "src": "turret/twins/xt/preview.png?7"
     },
     {
       "name": "railgun_m0_details",
@@ -1156,6 +1192,18 @@
     {
       "name": "titan_m3_preview",
       "src": "hull/titan/m3/preview.png?7"
+    },
+	{
+      "name": "titanxt_m0_lightmap",
+      "src": "hull/titan/xt/lightmap.jpg?7"
+    },
+    {
+      "name": "titanxt_m0_details",
+      "src": "hull/titan/xt/details.png?7"
+    },
+    {
+      "name": "titanxt_m0_preview",
+      "src": "hull/titan/xt/preview.png?7"
     },
     {
       "name": "dictator_m0_lightmap",
@@ -3460,6 +3508,10 @@
       "name": "smoky_m3_shot",
       "src": "turret/smoky/m3/shot.png?7"
     },
+	{
+      "name": "smokyxt_m0_shot",
+      "src": "turret/smoky/xt/shot.png?7"
+    },
     {
       "name": "smoky_m0_explosion",
       "src": "turret/smoky/m0/fire.png?7"
@@ -3475,6 +3527,10 @@
     {
       "name": "smoky_m3_explosion",
       "src": "turret/smoky/m3/fire.png?7"
+    },
+	{
+      "name": "smokyxt_m0_explosion",
+      "src": "turret/smoky/xt/fire.png?7"
     },
     {
       "name": "flamethrower_m0_fire",
@@ -3775,6 +3831,34 @@
     {
       "name": "isida_m3_idleWeaponBallId",
       "src": "turret/isida/m3/idle_spark.png?7"
+    },
+	{
+      "name": "isidaxt_m0_damagingRayId",
+      "src": "turret/isida/xt/damage_shaft.png?7"
+    },
+    {
+      "name": "isidaxt_m0_damagingTargetBallId",
+      "src": "turret/isida/xt/damage_end.png?7"
+    },
+    {
+      "name": "isidaxt_m0_damagingWeaponBallId",
+      "src": "turret/isida/xt/damage_start.png?7"
+    },
+    {
+      "name": "isidaxt_m0_healingRayId",
+      "src": "turret/isida/xt/heal_shaft.png?7"
+    },
+    {
+      "name": "isidaxt_m0_healingTargetBallId",
+      "src": "turret/isida/xt/heal_end.png?7"
+    },
+    {
+      "name": "isidaxt_m0_healingWeaponBallId",
+      "src": "turret/isida/xt/heal_start.png?7"
+    },
+    {
+      "name": "isidaxt_m0_idleWeaponBallId",
+      "src": "turret/isida/xt/idle_spark.png?7"
     },
     {
       "name": "thunder_m0_explosionResourceId",

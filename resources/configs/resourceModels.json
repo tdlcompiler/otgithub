@@ -83,6 +83,10 @@
 		"src": "turret/smoky/m3/turret.3ds?1"
 	  },
 	  {
+		"name": "smokyxt_m0",
+		"src": "turret/smoky/xt/turret.3ds?1"
+	  },
+	  {
 		"name": "twins_m0",
 		"src": "turret/twins/m0/turret.3ds?3"
 	  },
@@ -97,6 +101,10 @@
 	  {
 		"name": "twins_m3",
 		"src": "turret/twins/m3/turret.3ds?1"
+	  },
+	  {
+		"name": "twinsxt_m0",
+		"src": "turret/twins/xt/turret.3ds?1"
 	  },
 	  {
 		"name": "flamethrower_m0",
@@ -129,6 +137,10 @@
 	  {
 		"name": "isida_m3",
 		"src": "turret/isida/m3/turret.3ds?1"
+	  },
+	  {
+		"name": "isidaxt_m0",
+		"src": "turret/isida/xt/turret.3ds?1"
 	  },
 	  {
 		"name": "ricochet_m0",
@@ -258,6 +270,10 @@
 	  {
 		"name": "titan_m3",
 		"src": "hull/titan/m3/hull.3ds?1"
+	  },
+	  {
+		"name": "titanxt_m0",
+		"src": "hull/titan/xt/hull.3ds?1"
 	  },
 	  {
 		"name": "dictator_m0",

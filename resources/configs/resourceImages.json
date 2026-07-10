@@ -3568,6 +3568,10 @@
       "name": "twins_m3_explosionTexture",
       "src": "turret/twins/m3/explosion.png?7"
     },
+	{
+      "name": "twinsxt_m0_explosionTexture",
+      "src": "turret/twins/xt/explosion.png?7"
+    },
     {
       "name": "twins_m0_plasmaTexture",
       "src": "turret/twins/m0/charge.png?7"
@@ -3584,6 +3588,10 @@
       "name": "twins_m3_plasmaTexture",
       "src": "turret/twins/m3/charge.png?7"
     },
+	{
+      "name": "twinsxt_m0_plasmaTexture",
+      "src": "turret/twins/xt/charge.png?7"
+    },
     {
       "name": "twins_m0_shotTexture",
       "src": "turret/twins/m0/shot.png?7"
@@ -3599,6 +3607,10 @@
     {
       "name": "twins_m3_shotTexture",
       "src": "turret/twins/m3/shot.png?7"
+    },
+	{
+      "name": "twinsxt_m0_shotTexture",
+      "src": "turret/twins/xt/shot.png?7"
     },
     {
       "name": "isida_m0_damagingRayId",

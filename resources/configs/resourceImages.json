@@ -4170,7 +4170,7 @@
     },
 	{
       "name": "shot_skin_hammer_standard_shot_across",
-      "src": "turret/hammer/shot_skin_hammer_standard_shot_across.jpg?7",
+      "src": "turret/hammer/shot_skin_hammer_standard_shot_across.png?7",
       "multiframe": true,
       "fps": 60,
       "frame_heigth": 128,
@@ -4179,7 +4179,7 @@
     },
 	{
       "name": "shot_skin_hammer_standard_shot_along",
-      "src": "turret/hammer/shot_skin_hammer_standard_shot_along.jpg?7",
+      "src": "turret/hammer/shot_skin_hammer_standard_shot_along.png?7",
       "multiframe": true,
       "fps": 60,
       "frame_heigth": 128,
@@ -4188,7 +4188,7 @@
     },
 	{
       "name": "shot_skin_hammer_standard_smoke",
-      "src": "turret/hammer/shot_skin_hammer_standard_smoke.jpg?7",
+      "src": "turret/hammer/shot_skin_hammer_standard_smoke.png?7",
       "multiframe": true,
       "fps": 20,
       "frame_heigth": 128,

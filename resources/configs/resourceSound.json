@@ -214,6 +214,18 @@
         "src": "turret/vulcan/vulcan_chainStartSound.mp3?1"	
 	  },
 	  {
+		"name": "sound_hammer_shot",
+        "src": "turret/hammer/sound_hammer_shot.mp3?1"	
+	  },
+	  {
+		"name": "sound_hammer_shot_reload",
+        "src": "turret/hammer/sound_hammer_shot_reload.mp3?1"	
+	  },
+	  {
+		"name": "sound_hammer_clip_reload",
+        "src": "turret/hammer/sound_hammer_clip_reload.mp3?1"	
+	  },
+	  {
 		"name": "vulcan_turbineStartSound",
         "src": "turret/vulcan/vulcan_turbineStartSound.mp3?1"	
 	  },

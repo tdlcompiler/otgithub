@@ -216,6 +216,22 @@
 		"src": "turret/vulcan/m3/turret.3ds?1"
 	  },
 	  {
+		"name": "hammer_m0",
+		"src": "turret/hammer/m0/turret.3ds?1"
+	  },
+	  {
+		"name": "hammer_m1",
+		"src": "turret/hammer/m1/turret.3ds?1"
+	  },
+	  {
+		"name": "hammer_m2",
+		"src": "turret/hammer/m2/turret.3ds?1"
+	  },
+	  {
+		"name": "hammer_m3",
+		"src": "turret/hammer/m3/turret.3ds?1"
+	  },
+	  {
 		"name": "wasp_m0",
 		"src": "hull/wasp/m0/hull.3ds?1"
 	  },

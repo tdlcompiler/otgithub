@@ -4096,6 +4096,105 @@
       "name": "vulcan_m3_details",
       "src": "turret/vulcan/m3/details.png?7"
     },
+	{
+      "name": "shot_skin_hammer_standard_mark_1",
+      "src": "turret/hammer/shot_skin_hammer_standard_mark_1.png?7"
+    },
+	{
+      "name": "shot_skin_hammer_standard_mark_2",
+      "src": "turret/hammer/shot_skin_hammer_standard_mark_2.png?7"
+    },
+	{
+      "name": "shot_skin_hammer_standard_mark_3",
+      "src": "turret/hammer/shot_skin_hammer_standard_mark_3.png?7"
+    },
+	{
+      "name": "shot_skin_hammer_standard_mark_4",
+      "src": "turret/hammer/shot_skin_hammer_standard_mark_4.png?7"
+    },
+	{
+      "name": "shot_skin_hammer_standard_pellet_trail",
+      "src": "turret/hammer/shot_skin_hammer_standard_pellet_trail.png?7"
+    },
+	{
+      "name": "shot_skin_hammer_standard_sparkle",
+      "src": "turret/hammer/shot_skin_hammer_standard_sparkle.png?7"
+    },
+	{
+      "name": "hammer_m0_preview",
+      "src": "turret/hammer/m0/preview.png?7"
+    },
+	{
+      "name": "hammer_m1_preview",
+      "src": "turret/hammer/m1/preview.png?7"
+    },
+	{
+      "name": "hammer_m2_preview",
+      "src": "turret/hammer/m2/preview.png?7"
+    },
+	{
+      "name": "hammer_m3_preview",
+      "src": "turret/hammer/m3/preview.png?7"
+    },
+	{
+      "name": "hammer_m0_lightmap",
+      "src": "turret/hammer/m0/lightmap.jpg?7"
+    },
+	{
+      "name": "hammer_m1_lightmap",
+      "src": "turret/hammer/m1/lightmap.jpg?7"
+    },
+	{
+      "name": "hammer_m2_lightmap",
+      "src": "turret/hammer/m2/lightmap.jpg?7"
+    },
+	{
+      "name": "hammer_m3_lightmap",
+      "src": "turret/hammer/m3/lightmap.jpg?7"
+    },
+	{
+      "name": "hammer_m0_details",
+      "src": "turret/hammer/m0/details.jpg?7"
+    },
+	{
+      "name": "hammer_m1_details",
+      "src": "turret/hammer/m1/details.jpg?7"
+    },
+	{
+      "name": "hammer_m2_details",
+      "src": "turret/hammer/m2/details.jpg?7"
+    },
+	{
+      "name": "hammer_m3_details",
+      "src": "turret/hammer/m3/details.jpg?7"
+    },
+	{
+      "name": "shot_skin_hammer_standard_shot_across",
+      "src": "turret/hammer/shot_skin_hammer_standard_shot_across.jpg?7",
+      "multiframe": true,
+      "fps": 60,
+      "frame_heigth": 128,
+      "frame_width": 128,
+      "num_frames": 8
+    },
+	{
+      "name": "shot_skin_hammer_standard_shot_along",
+      "src": "turret/hammer/shot_skin_hammer_standard_shot_along.jpg?7",
+      "multiframe": true,
+      "fps": 60,
+      "frame_heigth": 128,
+      "frame_width": 128,
+      "num_frames": 8
+    },
+	{
+      "name": "shot_skin_hammer_standard_smoke",
+      "src": "turret/hammer/shot_skin_hammer_standard_smoke.jpg?7",
+      "multiframe": true,
+      "fps": 20,
+      "frame_heigth": 128,
+      "frame_width": 128,
+      "num_frames": 16
+    },
     {
       "name": "health_m0_preview",
       "src": "inventory/health/inventory_health.png?7"

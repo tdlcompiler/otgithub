@@ -4122,51 +4122,51 @@
     },
 	{
       "name": "hammer_m0_preview",
-      "src": "turret/hammer/m0/preview.png?7"
+      "src": "turret/hammer/m0/preview.png?8"
     },
 	{
       "name": "hammer_m1_preview",
-      "src": "turret/hammer/m1/preview.png?7"
+      "src": "turret/hammer/m1/preview.png?8"
     },
 	{
       "name": "hammer_m2_preview",
-      "src": "turret/hammer/m2/preview.png?7"
+      "src": "turret/hammer/m2/preview.png?8"
     },
 	{
       "name": "hammer_m3_preview",
-      "src": "turret/hammer/m3/preview.png?7"
+      "src": "turret/hammer/m3/preview.png?8"
     },
 	{
       "name": "hammer_m0_lightmap",
-      "src": "turret/hammer/m0/lightmap.jpg?7"
+      "src": "turret/hammer/m0/lightmap.jpg?8"
     },
 	{
       "name": "hammer_m1_lightmap",
-      "src": "turret/hammer/m1/lightmap.jpg?7"
+      "src": "turret/hammer/m1/lightmap.jpg?8"
     },
 	{
       "name": "hammer_m2_lightmap",
-      "src": "turret/hammer/m2/lightmap.jpg?7"
+      "src": "turret/hammer/m2/lightmap.jpg?8"
     },
 	{
       "name": "hammer_m3_lightmap",
-      "src": "turret/hammer/m3/lightmap.jpg?7"
+      "src": "turret/hammer/m3/lightmap.jpg?8"
     },
 	{
       "name": "hammer_m0_details",
-      "src": "turret/hammer/m0/details.png?7"
+      "src": "turret/hammer/m0/details.png?8"
     },
 	{
       "name": "hammer_m1_details",
-      "src": "turret/hammer/m1/details.png?7"
+      "src": "turret/hammer/m1/details.png?8"
     },
 	{
       "name": "hammer_m2_details",
-      "src": "turret/hammer/m2/details.png?7"
+      "src": "turret/hammer/m2/details.png?8"
     },
 	{
       "name": "hammer_m3_details",
-      "src": "turret/hammer/m3/details.png?7"
+      "src": "turret/hammer/m3/details.png?8"
     },
 	{
       "name": "shot_skin_hammer_standard_shot_across",

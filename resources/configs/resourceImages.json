@@ -4362,6 +4362,10 @@
     {
       "name": "warning_preview",
       "src": "news/warning_preview.png?1"
+    },
+	{
+      "name": "molot_preview",
+      "src": "news/molot_preview.png?1"
     }
   ]
 }

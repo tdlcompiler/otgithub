@@ -4122,19 +4122,19 @@
     },
 	{
       "name": "hammer_m0_preview",
-      "src": "turret/hammer/m0/preview.png?8"
+      "src": "turret/hammer/m0/preview.png?9"
     },
 	{
       "name": "hammer_m1_preview",
-      "src": "turret/hammer/m1/preview.png?8"
+      "src": "turret/hammer/m1/preview.png?9"
     },
 	{
       "name": "hammer_m2_preview",
-      "src": "turret/hammer/m2/preview.png?8"
+      "src": "turret/hammer/m2/preview.png?9"
     },
 	{
       "name": "hammer_m3_preview",
-      "src": "turret/hammer/m3/preview.png?8"
+      "src": "turret/hammer/m3/preview.png?9"
     },
 	{
       "name": "hammer_m0_lightmap",

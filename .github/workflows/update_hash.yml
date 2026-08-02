@@ -1,0 +1,46 @@
+name: Update Client Hash
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'battles_test_cache.swf'
+  workflow_dispatch:
+
+jobs:
+  update-hash:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate MD5 of local SWF
+        run: |
+          SWF_FILE="battles_test_cache.swf"
+          
+          if [ -f "$SWF_FILE" ]; then
+            MD5_HASH=$(md5sum "$SWF_FILE" | awk '{print $1}')
+            echo -n "$MD5_HASH" > client_hash
+            echo "Calculated Hash: $MD5_HASH"
+          else
+            echo "Error: File $SWF_FILE not found!"
+            exit 1
+          fi
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add client_hash
+          
+          if git diff --staged --quiet; then
+            echo "Hash has not changed. Skipping commit."
+          else
+            git commit -m "auto: update client_hash [skip ci]"
+            git push
+          fi

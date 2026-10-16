@@ -217,19 +217,19 @@
 	  },
 	  {
 		"name": "hammer_m0",
-		"src": "turret/hammer/m0/turret.3ds?1"
+		"src": "turret/hammer/m0/turret.3ds?2"
 	  },
 	  {
 		"name": "hammer_m1",
-		"src": "turret/hammer/m1/turret.3ds?1"
+		"src": "turret/hammer/m1/turret.3ds?2"
 	  },
 	  {
 		"name": "hammer_m2",
-		"src": "turret/hammer/m2/turret.3ds?1"
+		"src": "turret/hammer/m2/turret.3ds?2"
 	  },
 	  {
 		"name": "hammer_m3",
-		"src": "turret/hammer/m3/turret.3ds?1"
+		"src": "turret/hammer/m3/turret.3ds?2"
 	  },
 	  {
 		"name": "wasp_m0",
@@ -326,6 +326,10 @@
 	  	  {
 		"name": "hornetxt_m0",
 		"src": "hull/hornet/xt/hull.3ds?1"
+	  },
+	  {
+		"name": "mamontxt_m0",
+		"src": "hull/mamont/xt/hull.3ds?1"
 	  },
 	  {
 		"name": "mamont_m0",

@@ -362,6 +362,10 @@
 	  {
 		"name": "modelId_mine",
 		"src": "mines/model/mine.3ds?1"
+	  },
+	  {
+		"name": "isida_hw",
+		"src": "turret/isida/hw/turret.3ds?1"
 	  }
 	]
 }

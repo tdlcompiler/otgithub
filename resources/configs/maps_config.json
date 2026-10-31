@@ -943,6 +943,10 @@
 		{
             "map": "map_port.xml",
             "version": 2
+        },
+        {
+            "map": "map_halloween_2026.xml",
+            "version": 1
         }
     ]
 }

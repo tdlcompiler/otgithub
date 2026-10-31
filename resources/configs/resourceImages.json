@@ -4531,6 +4531,22 @@
 	{
       "name": "molot_preview",
       "src": "news/molot_preview.png?1"
+    },
+    {
+      "name": "map_halloween_2026_preview",
+      "src": "maps/map_halloween_2026_preview.jpg?1"
+    },
+    {
+      "name": "isida_hw_lightmap",
+      "src": "turret/isida/hw/lightmap.jpg?1"
+    },
+    {
+      "name": "isida_hw_details",
+      "src": "turret/isida/hw/details.png?1"
+    },
+    {
+      "name": "isida_hw_preview",
+      "src": "turret/isida/hw/preview.png?1"
     }
   ]
 }

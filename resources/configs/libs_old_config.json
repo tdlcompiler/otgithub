@@ -18,7 +18,7 @@
         },
         {
             "library": "Castle.tara",
-            "version": 2
+            "version": 3
         },
         {
             "library": "CastleWinter.tara",

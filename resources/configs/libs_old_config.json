@@ -18,7 +18,7 @@
         },
         {
             "library": "Castle.tara",
-            "version": 3
+            "version": 4
         },
         {
             "library": "CastleWinter.tara",
@@ -73,16 +73,16 @@
             "version": 1
         },
         {
-            "library": "kahgel.tara",
-            "version": 2
+            "library": "Kahgel.tara",
+            "version": 1
         },
         {
-            "library": "kariz.tara",
-            "version": 2
+            "library": "Kariz.tara",
+            "version": 1
         },
         {
             "library": "Landscape.tara",
-            "version": 2
+            "version": 1
         },
         {
             "library": "LandscapeWinter.tara",
@@ -209,12 +209,12 @@
             "version": 1
         },
         {
-            "library": "yonje.tara",
-            "version": 2
+            "library": "Yonje.tara",
+            "version": 1
         },
         {
-            "library": "zamin.tara",
-            "version": 2
+            "library": "Zamin.tara",
+            "version": 1
         },
 		{
             "library": "LandscapeOld.tara",
@@ -231,6 +231,18 @@
 		{
             "library": "BuildsOld.tara",
             "version": 3
+        },
+		{
+            "library": "CastleHalloween2026.tara",
+            "version": 1
+        },
+		{
+            "library": "LandscapeHalloween2026.tara",
+            "version": 1
+        },
+		{
+            "library": "Halloween2026.tara",
+            "version": 1
         }
     ]
 }

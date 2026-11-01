@@ -35449,6 +35449,75 @@
         <z>-300.000</z>
       </position>
     </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>0.785</z></rotation>
+      <position><x>-6750.000</x><y>-4500.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>0.350</z></rotation>
+      <position><x>-6750.000</x><y>2250.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>-0.500</z></rotation>
+      <position><x>-6750.000</x><y>6250.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>-0.700</z></rotation>
+      <position><x>-5750.000</x><y>5750.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>0.700</z></rotation>
+      <position><x>-4750.000</x><y>-2750.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>-1.000</z></rotation>
+      <position><x>-3250.000</x><y>6250.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>2.400</z></rotation>
+      <position><x>3250.000</x><y>-2750.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>-2.300</z></rotation>
+      <position><x>4750.000</x><y>2750.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>2.350</z></rotation>
+      <position><x>6750.000</x><y>-4500.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>2.800</z></rotation>
+      <position><x>6750.000</x><y>-2500.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>3.000</z></rotation>
+      <position><x>6750.000</x><y>-500.000</y><z>-300.000</z></position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation><z>-2.500</z></rotation>
+      <position><x>6750.000</x><y>4500.000</y><z>-300.000</z></position>
+    </spawn-point>
   </spawn-points>
-  <bonus-regions/>
+  <bonus-regions>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-6375</x><y>-4875</y><z>600</z></min><max><x>-6125</x><y>-4625</y><z>900</z></max><bonus-type>crystal_100</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-6375</x><y>5625</y><z>600</z></min><max><x>-6125</x><y>5875</y><z>900</z></max><bonus-type>crystal_100</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>6125</x><y>-4875</y><z>600</z></min><max><x>6375</x><y>-4625</y><z>900</z></max><bonus-type>crystal_100</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>6125</x><y>5625</y><z>600</z></min><max><x>6375</x><y>5875</y><z>900</z></max><bonus-type>crystal_100</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-4875</x><y>-2875</y><z>900</z></min><max><x>-4625</x><y>-2625</y><z>1200</z></max><bonus-type>crystal_100</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>4625</x><y>2625</y><z>900</z></min><max><x>4875</x><y>2875</y><z>1200</z></max><bonus-type>crystal_100</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-6875</x><y>2125</y><z>600</z></min><max><x>-6625</x><y>2375</y><z>900</z></max><bonus-type>crystal</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-5875</x><y>5625</y><z>600</z></min><max><x>-5625</x><y>5875</y><z>900</z></max><bonus-type>crystal</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-3375</x><y>6125</y><z>600</z></min><max><x>-3125</x><y>6375</y><z>900</z></max><bonus-type>crystal</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>3125</x><y>-2875</y><z>600</z></min><max><x>3375</x><y>-2625</y><z>900</z></max><bonus-type>crystal</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>6625</x><y>-2625</y><z>600</z></min><max><x>6875</x><y>-2375</y><z>900</z></max><bonus-type>crystal</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>6625</x><y>4375</y><z>600</z></min><max><x>6875</x><y>4625</y><z>900</z></max><bonus-type>crystal</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-6875</x><y>-4625</y><z>600</z></min><max><x>-6625</x><y>-4375</y><z>900</z></max><bonus-type>armorup</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>6625</x><y>-4625</y><z>600</z></min><max><x>6875</x><y>-4375</y><z>900</z></max><bonus-type>armorup</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-4875</x><y>4125</y><z>600</z></min><max><x>-4625</x><y>4375</y><z>900</z></max><bonus-type>damageup</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>4625</x><y>-2375</y><z>600</z></min><max><x>4875</x><y>-2125</y><z>900</z></max><bonus-type>damageup</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-5875</x><y>-3875</y><z>600</z></min><max><x>-5625</x><y>-3625</y><z>900</z></max><bonus-type>nitro</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>5625</x><y>2375</y><z>600</z></min><max><x>5875</x><y>2625</y><z>900</z></max><bonus-type>nitro</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>-6875</x><y>6125</y><z>600</z></min><max><x>-6625</x><y>6375</y><z>900</z></max><bonus-type>medkit</bonus-type></bonus-region>
+    <bonus-region name="free-bonus" parachute="true" free="true"><min><x>6625</x><y>-625</y><z>600</z></min><max><x>6875</x><y>-375</y><z>900</z></max><bonus-type>medkit</bonus-type></bonus-region>
+  </bonus-regions>
 </map>
